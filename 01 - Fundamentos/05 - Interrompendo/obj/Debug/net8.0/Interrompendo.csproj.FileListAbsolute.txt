@@ -1,0 +1,14 @@
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 05/bin/Debug/net8.0/Interrompendo
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 05/bin/Debug/net8.0/Interrompendo.deps.json
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 05/bin/Debug/net8.0/Interrompendo.runtimeconfig.json
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 05/bin/Debug/net8.0/Interrompendo.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 05/bin/Debug/net8.0/Interrompendo.pdb
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 05/obj/Debug/net8.0/Interrompendo.GeneratedMSBuildEditorConfig.editorconfig
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 05/obj/Debug/net8.0/Interrompendo.AssemblyInfoInputs.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 05/obj/Debug/net8.0/Interrompendo.AssemblyInfo.cs
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 05/obj/Debug/net8.0/Interrompendo.csproj.CoreCompileInputs.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 05/obj/Debug/net8.0/Interrompendo.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 05/obj/Debug/net8.0/refint/Interrompendo.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 05/obj/Debug/net8.0/Interrompendo.pdb
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 05/obj/Debug/net8.0/Interrompendo.genruntimeconfig.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 05/obj/Debug/net8.0/ref/Interrompendo.dll

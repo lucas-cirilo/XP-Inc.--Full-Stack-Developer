@@ -1,0 +1,28 @@
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 02./bin/Debug/net8.0/Instanciar
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 02./bin/Debug/net8.0/Instanciar.deps.json
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 02./bin/Debug/net8.0/Instanciar.runtimeconfig.json
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 02./bin/Debug/net8.0/Instanciar.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 02./bin/Debug/net8.0/Instanciar.pdb
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 02./obj/Debug/net8.0/Instanciar.GeneratedMSBuildEditorConfig.editorconfig
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 02./obj/Debug/net8.0/Instanciar.AssemblyInfoInputs.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 02./obj/Debug/net8.0/Instanciar.AssemblyInfo.cs
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 02./obj/Debug/net8.0/Instanciar.csproj.CoreCompileInputs.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 02./obj/Debug/net8.0/Instanciar.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 02./obj/Debug/net8.0/refint/Instanciar.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 02./obj/Debug/net8.0/Instanciar.pdb
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 02./obj/Debug/net8.0/Instanciar.genruntimeconfig.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 02./obj/Debug/net8.0/ref/Instanciar.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/02 - Instanciar /bin/Debug/net8.0/Instanciar
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/02 - Instanciar /bin/Debug/net8.0/Instanciar.deps.json
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/02 - Instanciar /bin/Debug/net8.0/Instanciar.runtimeconfig.json
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/02 - Instanciar /bin/Debug/net8.0/Instanciar.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/02 - Instanciar /bin/Debug/net8.0/Instanciar.pdb
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/02 - Instanciar /obj/Debug/net8.0/Instanciar.GeneratedMSBuildEditorConfig.editorconfig
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/02 - Instanciar /obj/Debug/net8.0/Instanciar.AssemblyInfoInputs.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/02 - Instanciar /obj/Debug/net8.0/Instanciar.AssemblyInfo.cs
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/02 - Instanciar /obj/Debug/net8.0/Instanciar.csproj.CoreCompileInputs.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/02 - Instanciar /obj/Debug/net8.0/Instanciar.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/02 - Instanciar /obj/Debug/net8.0/refint/Instanciar.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/02 - Instanciar /obj/Debug/net8.0/Instanciar.pdb
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/02 - Instanciar /obj/Debug/net8.0/Instanciar.genruntimeconfig.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/02 - Instanciar /obj/Debug/net8.0/ref/Instanciar.dll

@@ -1,0 +1,72 @@
+/home/ghost/Documentos/xp/bin/Debug/net8.0/Fundamentos
+/home/ghost/Documentos/xp/bin/Debug/net8.0/Fundamentos.deps.json
+/home/ghost/Documentos/xp/bin/Debug/net8.0/Fundamentos.runtimeconfig.json
+/home/ghost/Documentos/xp/bin/Debug/net8.0/Fundamentos.dll
+/home/ghost/Documentos/xp/bin/Debug/net8.0/Fundamentos.pdb
+/home/ghost/Documentos/xp/obj/Debug/net8.0/Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/ghost/Documentos/xp/obj/Debug/net8.0/Fundamentos.AssemblyInfoInputs.cache
+/home/ghost/Documentos/xp/obj/Debug/net8.0/Fundamentos.AssemblyInfo.cs
+/home/ghost/Documentos/xp/obj/Debug/net8.0/Fundamentos.csproj.CoreCompileInputs.cache
+/home/ghost/Documentos/xp/obj/Debug/net8.0/Fundamentos.dll
+/home/ghost/Documentos/xp/obj/Debug/net8.0/refint/Fundamentos.dll
+/home/ghost/Documentos/xp/obj/Debug/net8.0/Fundamentos.pdb
+/home/ghost/Documentos/xp/obj/Debug/net8.0/Fundamentos.genruntimeconfig.cache
+/home/ghost/Documentos/xp/obj/Debug/net8.0/ref/Fundamentos.dll
+/home/ghost/Documentos/Xp Inc. - Full Stack Developer../bin/Debug/net8.0/Fundamentos
+/home/ghost/Documentos/Xp Inc. - Full Stack Developer../bin/Debug/net8.0/Fundamentos.deps.json
+/home/ghost/Documentos/Xp Inc. - Full Stack Developer../bin/Debug/net8.0/Fundamentos.runtimeconfig.json
+/home/ghost/Documentos/Xp Inc. - Full Stack Developer../bin/Debug/net8.0/Fundamentos.dll
+/home/ghost/Documentos/Xp Inc. - Full Stack Developer../bin/Debug/net8.0/Fundamentos.pdb
+/home/ghost/Documentos/Xp Inc. - Full Stack Developer../obj/Debug/net8.0/Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/ghost/Documentos/Xp Inc. - Full Stack Developer../obj/Debug/net8.0/Fundamentos.AssemblyInfoInputs.cache
+/home/ghost/Documentos/Xp Inc. - Full Stack Developer../obj/Debug/net8.0/Fundamentos.AssemblyInfo.cs
+/home/ghost/Documentos/Xp Inc. - Full Stack Developer../obj/Debug/net8.0/Fundamentos.csproj.CoreCompileInputs.cache
+/home/ghost/Documentos/Xp Inc. - Full Stack Developer../obj/Debug/net8.0/Fundamentos.dll
+/home/ghost/Documentos/Xp Inc. - Full Stack Developer../obj/Debug/net8.0/refint/Fundamentos.dll
+/home/ghost/Documentos/Xp Inc. - Full Stack Developer../obj/Debug/net8.0/Fundamentos.pdb
+/home/ghost/Documentos/Xp Inc. - Full Stack Developer../obj/Debug/net8.0/Fundamentos.genruntimeconfig.cache
+/home/ghost/Documentos/Xp Inc. - Full Stack Developer../obj/Debug/net8.0/ref/Fundamentos.dll
+/home/ghost/Documentos/GitHub/XP-Inc.---Full-Stack-Developer/Introdução as IDEs e Configuração de Ambiente .NET/Fundamentos/bin/Debug/net8.0/Fundamentos
+/home/ghost/Documentos/GitHub/XP-Inc.---Full-Stack-Developer/Introdução as IDEs e Configuração de Ambiente .NET/Fundamentos/bin/Debug/net8.0/Fundamentos.deps.json
+/home/ghost/Documentos/GitHub/XP-Inc.---Full-Stack-Developer/Introdução as IDEs e Configuração de Ambiente .NET/Fundamentos/bin/Debug/net8.0/Fundamentos.runtimeconfig.json
+/home/ghost/Documentos/GitHub/XP-Inc.---Full-Stack-Developer/Introdução as IDEs e Configuração de Ambiente .NET/Fundamentos/bin/Debug/net8.0/Fundamentos.dll
+/home/ghost/Documentos/GitHub/XP-Inc.---Full-Stack-Developer/Introdução as IDEs e Configuração de Ambiente .NET/Fundamentos/bin/Debug/net8.0/Fundamentos.pdb
+/home/ghost/Documentos/GitHub/XP-Inc.---Full-Stack-Developer/Introdução as IDEs e Configuração de Ambiente .NET/Fundamentos/obj/Debug/net8.0/Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/ghost/Documentos/GitHub/XP-Inc.---Full-Stack-Developer/Introdução as IDEs e Configuração de Ambiente .NET/Fundamentos/obj/Debug/net8.0/Fundamentos.AssemblyInfoInputs.cache
+/home/ghost/Documentos/GitHub/XP-Inc.---Full-Stack-Developer/Introdução as IDEs e Configuração de Ambiente .NET/Fundamentos/obj/Debug/net8.0/Fundamentos.AssemblyInfo.cs
+/home/ghost/Documentos/GitHub/XP-Inc.---Full-Stack-Developer/Introdução as IDEs e Configuração de Ambiente .NET/Fundamentos/obj/Debug/net8.0/Fundamentos.csproj.CoreCompileInputs.cache
+/home/ghost/Documentos/GitHub/XP-Inc.---Full-Stack-Developer/Introdução as IDEs e Configuração de Ambiente .NET/Fundamentos/obj/Debug/net8.0/Fundamentos.sourcelink.json
+/home/ghost/Documentos/GitHub/XP-Inc.---Full-Stack-Developer/Introdução as IDEs e Configuração de Ambiente .NET/Fundamentos/obj/Debug/net8.0/Fundamentos.dll
+/home/ghost/Documentos/GitHub/XP-Inc.---Full-Stack-Developer/Introdução as IDEs e Configuração de Ambiente .NET/Fundamentos/obj/Debug/net8.0/refint/Fundamentos.dll
+/home/ghost/Documentos/GitHub/XP-Inc.---Full-Stack-Developer/Introdução as IDEs e Configuração de Ambiente .NET/Fundamentos/obj/Debug/net8.0/Fundamentos.pdb
+/home/ghost/Documentos/GitHub/XP-Inc.---Full-Stack-Developer/Introdução as IDEs e Configuração de Ambiente .NET/Fundamentos/obj/Debug/net8.0/Fundamentos.genruntimeconfig.cache
+/home/ghost/Documentos/GitHub/XP-Inc.---Full-Stack-Developer/Introdução as IDEs e Configuração de Ambiente .NET/Fundamentos/obj/Debug/net8.0/ref/Fundamentos.dll
+/home/ghost/Documentos/gitHub/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./bin/Debug/net8.0/Fundamentos
+/home/ghost/Documentos/gitHub/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./bin/Debug/net8.0/Fundamentos.deps.json
+/home/ghost/Documentos/gitHub/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./bin/Debug/net8.0/Fundamentos.runtimeconfig.json
+/home/ghost/Documentos/gitHub/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./bin/Debug/net8.0/Fundamentos.dll
+/home/ghost/Documentos/gitHub/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./bin/Debug/net8.0/Fundamentos.pdb
+/home/ghost/Documentos/gitHub/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./obj/Debug/net8.0/Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/ghost/Documentos/gitHub/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./obj/Debug/net8.0/Fundamentos.AssemblyInfoInputs.cache
+/home/ghost/Documentos/gitHub/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./obj/Debug/net8.0/Fundamentos.AssemblyInfo.cs
+/home/ghost/Documentos/gitHub/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./obj/Debug/net8.0/Fundamentos.csproj.CoreCompileInputs.cache
+/home/ghost/Documentos/gitHub/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./obj/Debug/net8.0/Fundamentos.sourcelink.json
+/home/ghost/Documentos/gitHub/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./obj/Debug/net8.0/Fundamentos.dll
+/home/ghost/Documentos/gitHub/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./obj/Debug/net8.0/refint/Fundamentos.dll
+/home/ghost/Documentos/gitHub/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./obj/Debug/net8.0/Fundamentos.pdb
+/home/ghost/Documentos/gitHub/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./obj/Debug/net8.0/Fundamentos.genruntimeconfig.cache
+/home/ghost/Documentos/gitHub/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./obj/Debug/net8.0/ref/Fundamentos.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./bin/Debug/net8.0/Fundamentos
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./bin/Debug/net8.0/Fundamentos.deps.json
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./bin/Debug/net8.0/Fundamentos.runtimeconfig.json
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./bin/Debug/net8.0/Fundamentos.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./bin/Debug/net8.0/Fundamentos.pdb
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./obj/Debug/net8.0/Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./obj/Debug/net8.0/Fundamentos.AssemblyInfoInputs.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./obj/Debug/net8.0/Fundamentos.AssemblyInfo.cs
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./obj/Debug/net8.0/Fundamentos.csproj.CoreCompileInputs.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./obj/Debug/net8.0/Fundamentos.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./obj/Debug/net8.0/refint/Fundamentos.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./obj/Debug/net8.0/Fundamentos.pdb
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./obj/Debug/net8.0/Fundamentos.genruntimeconfig.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos - 01./obj/Debug/net8.0/ref/Fundamentos.dll

@@ -1,0 +1,14 @@
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 03/bin/Debug/net8.0/Thefor
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 03/bin/Debug/net8.0/Thefor.deps.json
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 03/bin/Debug/net8.0/Thefor.runtimeconfig.json
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 03/bin/Debug/net8.0/Thefor.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 03/bin/Debug/net8.0/Thefor.pdb
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 03/obj/Debug/net8.0/Thefor.GeneratedMSBuildEditorConfig.editorconfig
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 03/obj/Debug/net8.0/Thefor.AssemblyInfoInputs.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 03/obj/Debug/net8.0/Thefor.AssemblyInfo.cs
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 03/obj/Debug/net8.0/Thefor.csproj.CoreCompileInputs.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 03/obj/Debug/net8.0/Thefor.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 03/obj/Debug/net8.0/refint/Thefor.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 03/obj/Debug/net8.0/Thefor.pdb
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 03/obj/Debug/net8.0/Thefor.genruntimeconfig.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 03/obj/Debug/net8.0/ref/Thefor.dll

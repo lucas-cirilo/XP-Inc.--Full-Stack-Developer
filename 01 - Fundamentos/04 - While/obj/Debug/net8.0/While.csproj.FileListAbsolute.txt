@@ -1,0 +1,14 @@
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 04/bin/Debug/net8.0/While
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 04/bin/Debug/net8.0/While.deps.json
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 04/bin/Debug/net8.0/While.runtimeconfig.json
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 04/bin/Debug/net8.0/While.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 04/bin/Debug/net8.0/While.pdb
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 04/obj/Debug/net8.0/While.GeneratedMSBuildEditorConfig.editorconfig
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 04/obj/Debug/net8.0/While.AssemblyInfoInputs.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 04/obj/Debug/net8.0/While.AssemblyInfo.cs
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 04/obj/Debug/net8.0/While.csproj.CoreCompileInputs.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 04/obj/Debug/net8.0/While.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 04/obj/Debug/net8.0/refint/While.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 04/obj/Debug/net8.0/While.pdb
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 04/obj/Debug/net8.0/While.genruntimeconfig.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/Fundamentos/Fundamentos - 04/obj/Debug/net8.0/ref/While.dll
