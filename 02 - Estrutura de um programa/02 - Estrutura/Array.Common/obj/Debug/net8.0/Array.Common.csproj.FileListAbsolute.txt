@@ -1,0 +1,11 @@
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/02 - Estrutura/Array.Common/bin/Debug/net8.0/Array.Common.deps.json
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/02 - Estrutura/Array.Common/bin/Debug/net8.0/Array.Common.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/02 - Estrutura/Array.Common/bin/Debug/net8.0/Array.Common.pdb
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/02 - Estrutura/Array.Common/obj/Debug/net8.0/Array.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/02 - Estrutura/Array.Common/obj/Debug/net8.0/Array.Common.AssemblyInfoInputs.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/02 - Estrutura/Array.Common/obj/Debug/net8.0/Array.Common.AssemblyInfo.cs
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/02 - Estrutura/Array.Common/obj/Debug/net8.0/Array.Common.csproj.CoreCompileInputs.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/02 - Estrutura/Array.Common/obj/Debug/net8.0/Array.Common.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/02 - Estrutura/Array.Common/obj/Debug/net8.0/refint/Array.Common.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/02 - Estrutura/Array.Common/obj/Debug/net8.0/Array.Common.pdb
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/02 - Estrutura/Array.Common/obj/Debug/net8.0/ref/Array.Common.dll

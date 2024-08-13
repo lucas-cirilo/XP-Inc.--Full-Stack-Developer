@@ -58,11 +58,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../01 - Fundamentos/02 - Instanciar /Models/Calculadora.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Array.Common/Models/Calculadora.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Array.Common/Models/Pessoa.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Array/Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Array/bin/Debug/net8.0/01 - Estrutura.deps.json" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Array/bin/Debug/net8.0/01 - Estrutura.runtimeconfig.json" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Array.Common/Class1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Array.Common/Models/Calculadora.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Array/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
@@ -182,7 +180,7 @@
       <workItem from="1723253574587" duration="1978000" />
       <workItem from="1723509335683" duration="1299000" />
       <workItem from="1723569009681" duration="345000" />
-      <workItem from="1723569629380" duration="205000" />
+      <workItem from="1723569853546" duration="149000" />
     </task>
     <servers />
   </component>
