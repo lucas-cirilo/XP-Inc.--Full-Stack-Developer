@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CopyingArray/1.0.0": {
+        "dependencies": {
+          "CopyingArray.Common": "1.0.0"
+        },
+        "runtime": {
+          "CopyingArray.dll": {}
+        }
+      },
+      "CopyingArray.Common/1.0.0": {
+        "runtime": {
+          "CopyingArray.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CopyingArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CopyingArray.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

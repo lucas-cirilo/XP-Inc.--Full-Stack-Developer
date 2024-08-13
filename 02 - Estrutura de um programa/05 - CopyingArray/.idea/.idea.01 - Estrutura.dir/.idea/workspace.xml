@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73480b5a-7a48-4da3-aab4-f255b01c7d85" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./.idea/.idea.Fundamentos.dir/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./.idea/.idea.Fundamentos.dir/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./.idea/.idea.Fundamentos.dir/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./Fundamentos.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./Models/Pessoa.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./bin/Debug/net8.0/Fundamentos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./bin/Debug/net8.0/Fundamentos.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./bin/Debug/net8.0/Fundamentos.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./bin/Debug/net8.0/Fundamentos.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./bin/Debug/net8.0/Fundamentos.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./obj/Debug/net8.0/Fundamentos.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./obj/Debug/net8.0/Fundamentos.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./obj/Debug/net8.0/Fundamentos.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./obj/Debug/net8.0/Fundamentos.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./obj/Debug/net8.0/Fundamentos.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./obj/Debug/net8.0/Fundamentos.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./obj/Debug/net8.0/Fundamentos.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./obj/Debug/net8.0/Fundamentos.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./obj/Debug/net8.0/Fundamentos.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./obj/Debug/net8.0/Fundamentos.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./obj/Debug/net8.0/Fundamentos.sourcelink.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./obj/Debug/net8.0/apphost" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./obj/Debug/net8.0/ref/Fundamentos.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./obj/Debug/net8.0/refint/Fundamentos.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./obj/Fundamentos.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./obj/Fundamentos.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./obj/Fundamentos.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./obj/rider.project.model.nuget.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./obj/rider.project.restore.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./obj/xp.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./obj/xp.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Fundamentos - 01./obj/xp.csproj.nuget.g.targets" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../01 - Fundamentos/01 - Classe/Models/Pessoa.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../01 - Fundamentos/01 - Classe/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Models/Calculadora.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Models/Pessoa.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2kRXS7DyizjDunHUhtTBLyfp4AJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/home/ghost/.config/JetBrains/Rider2024.1/resharper-host/DecompilerCache&quot;,
+      &quot;/home/ghost/.config/JetBrains/Rider2024.1/resharper-host/SourcesCache&quot;,
+      &quot;/home/ghost/.local/share/Symbols/src&quot;
+    ]
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73480b5a-7a48-4da3-aab4-f255b01c7d85" name="Changes" comment="" />
+      <created>1723247360234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723247360234</updated>
+      <workItem from="1723247362682" duration="669000" />
+      <workItem from="1723248053841" duration="267000" />
+      <workItem from="1723248541129" duration="713000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/04 - ResizeArray/ResizeArray/ResizeArray.csproj": {}
+  },
+  "projects": {
+    "/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/04 - ResizeArray/ResizeArray.Common/ResizeArray.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/04 - ResizeArray/ResizeArray.Common/ResizeArray.Common.csproj",
+        "projectName": "ResizeArray.Common",
+        "projectPath": "/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/04 - ResizeArray/ResizeArray.Common/ResizeArray.Common.csproj",
+        "packagesPath": "/home/ghost/.nuget/packages/",
+        "outputPath": "/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/04 - ResizeArray/ResizeArray.Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ghost/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/ghost/.dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/04 - ResizeArray/ResizeArray/ResizeArray.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/04 - ResizeArray/ResizeArray/ResizeArray.csproj",
+        "projectName": "ResizeArray",
+        "projectPath": "/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/04 - ResizeArray/ResizeArray/ResizeArray.csproj",
+        "packagesPath": "/home/ghost/.nuget/packages/",
+        "outputPath": "/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/04 - ResizeArray/ResizeArray/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ghost/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/04 - ResizeArray/ResizeArray.Common/ResizeArray.Common.csproj": {
+                "projectPath": "/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/04 - ResizeArray/ResizeArray.Common/ResizeArray.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/ghost/.dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/04 - ResizeArray/ResizeArray.Common/bin/Debug/net8.0/ResizeArray.Common.deps.json
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/04 - ResizeArray/ResizeArray.Common/bin/Debug/net8.0/ResizeArray.Common.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/04 - ResizeArray/ResizeArray.Common/bin/Debug/net8.0/ResizeArray.Common.pdb
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/04 - ResizeArray/ResizeArray.Common/obj/Debug/net8.0/ResizeArray.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/04 - ResizeArray/ResizeArray.Common/obj/Debug/net8.0/ResizeArray.Common.AssemblyInfoInputs.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/04 - ResizeArray/ResizeArray.Common/obj/Debug/net8.0/ResizeArray.Common.AssemblyInfo.cs
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/04 - ResizeArray/ResizeArray.Common/obj/Debug/net8.0/ResizeArray.Common.csproj.CoreCompileInputs.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/04 - ResizeArray/ResizeArray.Common/obj/Debug/net8.0/ResizeArray.Common.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/04 - ResizeArray/ResizeArray.Common/obj/Debug/net8.0/refint/ResizeArray.Common.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/04 - ResizeArray/ResizeArray.Common/obj/Debug/net8.0/ResizeArray.Common.pdb
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/04 - ResizeArray/ResizeArray.Common/obj/Debug/net8.0/ref/ResizeArray.Common.dll

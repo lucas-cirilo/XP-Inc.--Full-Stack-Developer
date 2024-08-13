@@ -1,0 +1,11 @@
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/06 - WorkingList/WorkingList.Common/bin/Debug/net8.0/WorkingList.Common.deps.json
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/06 - WorkingList/WorkingList.Common/bin/Debug/net8.0/WorkingList.Common.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/06 - WorkingList/WorkingList.Common/bin/Debug/net8.0/WorkingList.Common.pdb
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/06 - WorkingList/WorkingList.Common/obj/Debug/net8.0/WorkingList.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/06 - WorkingList/WorkingList.Common/obj/Debug/net8.0/WorkingList.Common.AssemblyInfoInputs.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/06 - WorkingList/WorkingList.Common/obj/Debug/net8.0/WorkingList.Common.AssemblyInfo.cs
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/06 - WorkingList/WorkingList.Common/obj/Debug/net8.0/WorkingList.Common.csproj.CoreCompileInputs.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/06 - WorkingList/WorkingList.Common/obj/Debug/net8.0/WorkingList.Common.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/06 - WorkingList/WorkingList.Common/obj/Debug/net8.0/refint/WorkingList.Common.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/06 - WorkingList/WorkingList.Common/obj/Debug/net8.0/WorkingList.Common.pdb
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/06 - WorkingList/WorkingList.Common/obj/Debug/net8.0/ref/WorkingList.Common.dll

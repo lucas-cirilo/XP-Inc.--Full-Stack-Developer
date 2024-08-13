@@ -1,0 +1,11 @@
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/05 - CopyingArray/CopyingArray.Common/bin/Debug/net8.0/CopyingArray.Common.deps.json
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/05 - CopyingArray/CopyingArray.Common/bin/Debug/net8.0/CopyingArray.Common.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/05 - CopyingArray/CopyingArray.Common/bin/Debug/net8.0/CopyingArray.Common.pdb
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/05 - CopyingArray/CopyingArray.Common/obj/Debug/net8.0/CopyingArray.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/05 - CopyingArray/CopyingArray.Common/obj/Debug/net8.0/CopyingArray.Common.AssemblyInfoInputs.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/05 - CopyingArray/CopyingArray.Common/obj/Debug/net8.0/CopyingArray.Common.AssemblyInfo.cs
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/05 - CopyingArray/CopyingArray.Common/obj/Debug/net8.0/CopyingArray.Common.csproj.CoreCompileInputs.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/05 - CopyingArray/CopyingArray.Common/obj/Debug/net8.0/CopyingArray.Common.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/05 - CopyingArray/CopyingArray.Common/obj/Debug/net8.0/refint/CopyingArray.Common.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/05 - CopyingArray/CopyingArray.Common/obj/Debug/net8.0/CopyingArray.Common.pdb
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/05 - CopyingArray/CopyingArray.Common/obj/Debug/net8.0/ref/CopyingArray.Common.dll

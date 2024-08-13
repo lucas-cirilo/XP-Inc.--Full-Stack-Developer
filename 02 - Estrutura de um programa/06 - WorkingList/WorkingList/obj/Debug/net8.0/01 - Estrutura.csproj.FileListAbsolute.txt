@@ -1,0 +1,14 @@
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/01 - Estrutura/bin/Debug/net8.0/01 - Estrutura
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/01 - Estrutura/bin/Debug/net8.0/01 - Estrutura.deps.json
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/01 - Estrutura/bin/Debug/net8.0/01 - Estrutura.runtimeconfig.json
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/01 - Estrutura/bin/Debug/net8.0/01 - Estrutura.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/01 - Estrutura/bin/Debug/net8.0/01 - Estrutura.pdb
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/01 - Estrutura/obj/Debug/net8.0/01 - Estrutura.GeneratedMSBuildEditorConfig.editorconfig
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/01 - Estrutura/obj/Debug/net8.0/01 - Estrutura.AssemblyInfoInputs.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/01 - Estrutura/obj/Debug/net8.0/01 - Estrutura.AssemblyInfo.cs
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/01 - Estrutura/obj/Debug/net8.0/01 - Estrutura.csproj.CoreCompileInputs.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/01 - Estrutura/obj/Debug/net8.0/01 - Estrutura.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/01 - Estrutura/obj/Debug/net8.0/refint/01 - Estrutura.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/01 - Estrutura/obj/Debug/net8.0/01 - Estrutura.pdb
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/01 - Estrutura/obj/Debug/net8.0/01 - Estrutura.genruntimeconfig.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/01 - Estrutura/obj/Debug/net8.0/ref/01 - Estrutura.dll

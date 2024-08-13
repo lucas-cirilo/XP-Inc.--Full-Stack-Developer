@@ -1,0 +1,11 @@
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/01 - Estrutura/Estrutura.Common/bin/Debug/net8.0/Estrutura.Common.deps.json
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/01 - Estrutura/Estrutura.Common/bin/Debug/net8.0/Estrutura.Common.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/01 - Estrutura/Estrutura.Common/bin/Debug/net8.0/Estrutura.Common.pdb
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/01 - Estrutura/Estrutura.Common/obj/Debug/net8.0/Estrutura.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/01 - Estrutura/Estrutura.Common/obj/Debug/net8.0/Estrutura.Common.AssemblyInfoInputs.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/01 - Estrutura/Estrutura.Common/obj/Debug/net8.0/Estrutura.Common.AssemblyInfo.cs
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/01 - Estrutura/Estrutura.Common/obj/Debug/net8.0/Estrutura.Common.csproj.CoreCompileInputs.cache
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/01 - Estrutura/Estrutura.Common/obj/Debug/net8.0/Estrutura.Common.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/01 - Estrutura/Estrutura.Common/obj/Debug/net8.0/refint/Estrutura.Common.dll
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/01 - Estrutura/Estrutura.Common/obj/Debug/net8.0/Estrutura.Common.pdb
+/home/ghost/Documentos/Teste/XP-Inc.--Full-Stack-Developer/02 - Estrutura de um programa/01 - Estrutura/Estrutura.Common/obj/Debug/net8.0/ref/Estrutura.Common.dll

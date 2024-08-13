@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ResizeArray/1.0.0": {
+        "dependencies": {
+          "ResizeArray.Common": "1.0.0"
+        },
+        "runtime": {
+          "ResizeArray.dll": {}
+        }
+      },
+      "ResizeArray.Common/1.0.0": {
+        "runtime": {
+          "ResizeArray.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ResizeArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ResizeArray.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

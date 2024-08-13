@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WorkingList/1.0.0": {
+        "dependencies": {
+          "WorkingList.Common": "1.0.0"
+        },
+        "runtime": {
+          "WorkingList.dll": {}
+        }
+      },
+      "WorkingList.Common/1.0.0": {
+        "runtime": {
+          "WorkingList.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WorkingList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorkingList.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
