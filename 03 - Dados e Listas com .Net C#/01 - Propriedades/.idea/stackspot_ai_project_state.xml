@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectStateService">
+    <option name="data">
+      <map>
+        <entry key="llcs0595@gmail.com">
+          <value>
+            <ProjectStateData>
+              <option name="conversationId" value="01J5RQNERC5X06X6MTVPA58QK8" />
+              <option name="indexedFiles">
+                <map>
+                  <entry key="$APPLICATION_CONFIG_DIR$/resharper-host/event-log-state.json" value="34" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/data/aggregators/AVG.groovy" value="273" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/data/aggregators/COEFFICIENT_OF_VARIATION.groovy" value="282" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/data/aggregators/COLS.groovy" value="277" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/data/aggregators/COUNT.groovy" value="279" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/data/aggregators/COUNT_NUMS.groovy" value="281" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/data/aggregators/MAX.groovy" value="274" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/data/aggregators/MEDIAN.groovy" value="280" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/data/aggregators/MIN.groovy" value="275" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/data/aggregators/ROWS.groovy" value="278" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/data/aggregators/SUM.groovy" value="276" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/data/extractors/CSV-Groovy.csv.groovy" value="284" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/data/extractors/HTML-Groovy.html.groovy" value="286" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/data/extractors/HTML-JavaScript.html.js" value="287" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/data/extractors/JSON-Groovy.json.groovy" value="288" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/data/extractors/Markdown-Groovy.md.groovy" value="290" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/data/extractors/One-row.sql.groovy" value="283" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/data/extractors/Pretty-Groovy.txt.groovy" value="289" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/data/extractors/SQL-Insert-Multirow.sql.groovy" value="291" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/data/extractors/SQL-Insert-Statements.sql.groovy" value="292" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/data/extractors/XML-Groovy.xml.groovy" value="285" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/data/loaders/JSON.groovy" value="271" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/data/loaders/Parquet.groovy" value="272" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/data/loaders/SHP.groovy" value="269" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/data/loaders/XLS.groovy" value="270" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/schema.layouts/File per object by schema and database.groovy" value="268" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/schema.layouts/File per object by schema and type.groovy" value="267" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/schema.layouts/File per object by schema.groovy" value="265" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/schema.layouts/File per object with order.groovy" value="266" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/schema.layouts/File per object.groovy" value="264" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/DatabaseTools/lib/database-plugin.jar!/extensions/schema/Generate POJOs.groovy" value="263" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/environment/http-client.env.json" value="298" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/environment/http-client.private.env.json" value="299" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/stubs/http-client.common.d.ts" value="294" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/stubs/http-client.crypto.d.ts" value="295" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/stubs/http-client.d.ts" value="293" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/stubs/http-client.dynamic-variables.d.ts" value="297" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/stubs/http-client.pre-request.d.ts" value="296" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/sass/lib/sass.jar!/org/jetbrains/plugins/sass/stdlib/sass_color.scss" value="76" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/sass/lib/sass.jar!/org/jetbrains/plugins/sass/stdlib/sass_functions.scss" value="79" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/sass/lib/sass.jar!/org/jetbrains/plugins/sass/stdlib/sass_list.scss" value="73" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/sass/lib/sass.jar!/org/jetbrains/plugins/sass/stdlib/sass_map.scss" value="72" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/sass/lib/sass.jar!/org/jetbrains/plugins/sass/stdlib/sass_math.scss" value="74" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/sass/lib/sass.jar!/org/jetbrains/plugins/sass/stdlib/sass_meta.scss" value="75" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/sass/lib/sass.jar!/org/jetbrains/plugins/sass/stdlib/sass_selector.scss" value="78" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/sass/lib/sass.jar!/org/jetbrains/plugins/sass/stdlib/sass_string.scss" value="77" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/xpath/lib/xpath.jar!/org/intellij/lang/xpath/xslt/resources/doc-style.xhtml" value="186" />
+                  <entry key="$APPLICATION_HOME_DIR$/plugins/xpath/lib/xpath.jar!/org/intellij/lang/xpath/xslt/resources/documentation.xml" value="188" />
+                  <entry key="$PROJECT_DIR$/Models/Pessoa.cs" value="2652" />
+                  <entry key="$PROJECT_DIR$/Program.cs" value="0" />
+                </map>
+              </option>
+              <option name="projectId" value="01J5RQEY90RQ4EP9XXA5Z2Z4K4" />
+            </ProjectStateData>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

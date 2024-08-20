@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectStateService">
+    <option name="data">
+      <map>
+        <entry key="llcs0595@gmail.com">
+          <value>
+            <ProjectStateData>
+              <option name="conversationId" value="01J5RRYRAJDXEB49SXVB81SKK6" />
+              <option name="indexedFiles">
+                <map>
+                  <entry key="$APPLICATION_CONFIG_DIR$/resharper-host/event-log-state.json" value="28" />
+                  <entry key="$PROJECT_DIR$/Models/Pessoa.cs" value="1146" />
+                  <entry key="$PROJECT_DIR$/Program.cs" value="819" />
+                  <entry key="$PROJECT_DIR$/bin/Debug/net8.0/01 - Propriedades.deps.json" value="408" />
+                  <entry key="$PROJECT_DIR$/bin/Debug/net8.0/01 - Propriedades.runtimeconfig.json" value="409" />
+                  <entry key="$PROJECT_DIR$/bin/Debug/net8.0/02 - Body Expressions.deps.json" value="0" />
+                  <entry key="$PROJECT_DIR$/bin/Debug/net8.0/02 - Body Expressions.runtimeconfig.json" value="0" />
+                  <entry key="$PROJECT_DIR$/obj/01 - Propriedades.csproj.nuget.dgspec.json" value="707" />
+                  <entry key="$PROJECT_DIR$/obj/02 - Body Expressions.csproj.nuget.dgspec.json" value="0" />
+                  <entry key="$PROJECT_DIR$/obj/Debug/net8.0/01 - Propriedades.AssemblyInfo.cs" value="696" />
+                  <entry key="$PROJECT_DIR$/obj/Debug/net8.0/01 - Propriedades.csproj.FileListAbsolute.txt" value="414" />
+                  <entry key="$PROJECT_DIR$/obj/Debug/net8.0/02 - Body Expressions.AssemblyInfo.cs" value="130" />
+                  <entry key="$PROJECT_DIR$/obj/Debug/net8.0/02 - Body Expressions.GlobalUsings.g.cs" value="0" />
+                  <entry key="$PROJECT_DIR$/obj/Debug/net8.0/02 - Body Expressions.csproj.FileListAbsolute.txt" value="0" />
+                  <entry key="$PROJECT_DIR$/obj/Debug/net8.0/02 - Body Expressions.sourcelink.json" value="0" />
+                  <entry key="$PROJECT_DIR$/obj/project.assets.json" value="20" />
+                  <entry key="$PROJECT_DIR$/obj/project.packagespec.json" value="7" />
+                </map>
+              </option>
+              <option name="projectId" value="01J5RRDQGK8JCZQY9983PSGQXY" />
+            </ProjectStateData>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

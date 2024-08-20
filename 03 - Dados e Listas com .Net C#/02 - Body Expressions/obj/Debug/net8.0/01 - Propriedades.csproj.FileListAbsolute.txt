@@ -1,0 +1,30 @@
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/01 - Propriedades/obj/Debug/net8.0/01 - Propriedades.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/01 - Propriedades/obj/Debug/net8.0/01 - Propriedades.AssemblyInfoInputs.cache
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/01 - Propriedades/obj/Debug/net8.0/01 - Propriedades.AssemblyInfo.cs
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/01 - Propriedades/obj/Debug/net8.0/01 - Propriedades.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/01 - Propriedades/obj/Debug/net8.0/01 - Propriedades.sourcelink.json
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/01 - Propriedades/bin/Debug/net8.0/01 - Propriedades
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/01 - Propriedades/bin/Debug/net8.0/01 - Propriedades.deps.json
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/01 - Propriedades/bin/Debug/net8.0/01 - Propriedades.runtimeconfig.json
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/01 - Propriedades/bin/Debug/net8.0/01 - Propriedades.dll
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/01 - Propriedades/bin/Debug/net8.0/01 - Propriedades.pdb
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/01 - Propriedades/obj/Debug/net8.0/01 - Propriedades.dll
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/01 - Propriedades/obj/Debug/net8.0/refint/01 - Propriedades.dll
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/01 - Propriedades/obj/Debug/net8.0/01 - Propriedades.pdb
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/01 - Propriedades/obj/Debug/net8.0/01 - Propriedades.genruntimeconfig.cache
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/01 - Propriedades/obj/Debug/net8.0/ref/01 - Propriedades.dll
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/bin/Debug/net8.0/01 - Propriedades
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/bin/Debug/net8.0/01 - Propriedades.deps.json
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/bin/Debug/net8.0/01 - Propriedades.runtimeconfig.json
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/bin/Debug/net8.0/01 - Propriedades.dll
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/bin/Debug/net8.0/01 - Propriedades.pdb
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/obj/Debug/net8.0/01 - Propriedades.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/obj/Debug/net8.0/01 - Propriedades.AssemblyInfoInputs.cache
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/obj/Debug/net8.0/01 - Propriedades.AssemblyInfo.cs
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/obj/Debug/net8.0/01 - Propriedades.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/obj/Debug/net8.0/01 - Propriedades.sourcelink.json
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/obj/Debug/net8.0/01 - Propriedades.dll
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/obj/Debug/net8.0/refint/01 - Propriedades.dll
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/obj/Debug/net8.0/01 - Propriedades.pdb
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/obj/Debug/net8.0/01 - Propriedades.genruntimeconfig.cache
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/obj/Debug/net8.0/ref/01 - Propriedades.dll
