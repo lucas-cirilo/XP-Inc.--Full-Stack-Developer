@@ -3,14 +3,13 @@
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>net8.0</TargetFramework>
-        <RootNamespace>_02_Body_Expressions</RootNamespace>
+        <RootNamespace>_03_ValidandoIdade</RootNamespace>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>disable</Nullable>
         <AssemblyName>02 - Body Expressions</AssemblyName>
-        <PackageId>02 - Body Expressions</PackageId>
-        <Authors>02 - Body Expressions</Authors>
-        <Company>02 - Body Expressions</Company>
-        <Product>02 - Body Expressions</Product>
+        <PackageId>03 - Validando Idade</PackageId>
+        <Authors>Lucas Cirilo</Authors>
+        <Product>03 - Validando Idade</Product>
     </PropertyGroup>
 
 </Project>
