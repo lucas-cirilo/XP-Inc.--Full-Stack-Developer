@@ -1,0 +1,30 @@
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/03 - Validando a Variável IDADE/bin/Debug/net8.0/02 - Body Expressions
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/03 - Validando a Variável IDADE/bin/Debug/net8.0/02 - Body Expressions.deps.json
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/03 - Validando a Variável IDADE/bin/Debug/net8.0/02 - Body Expressions.runtimeconfig.json
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/03 - Validando a Variável IDADE/bin/Debug/net8.0/02 - Body Expressions.dll
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/03 - Validando a Variável IDADE/bin/Debug/net8.0/02 - Body Expressions.pdb
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/03 - Validando a Variável IDADE/obj/Debug/net8.0/03 - ValidandoIdade.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/03 - Validando a Variável IDADE/obj/Debug/net8.0/03 - ValidandoIdade.AssemblyInfoInputs.cache
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/03 - Validando a Variável IDADE/obj/Debug/net8.0/03 - ValidandoIdade.AssemblyInfo.cs
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/03 - Validando a Variável IDADE/obj/Debug/net8.0/03 - ValidandoIdade.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/03 - Validando a Variável IDADE/obj/Debug/net8.0/03 - ValidandoIdade.sourcelink.json
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/03 - Validando a Variável IDADE/obj/Debug/net8.0/02 - Body Expressions.dll
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/03 - Validando a Variável IDADE/obj/Debug/net8.0/refint/02 - Body Expressions.dll
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/03 - Validando a Variável IDADE/obj/Debug/net8.0/02 - Body Expressions.pdb
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/03 - Validando a Variável IDADE/obj/Debug/net8.0/03 - ValidandoIdade.genruntimeconfig.cache
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/03 - Validando a Variável IDADE/obj/Debug/net8.0/ref/02 - Body Expressions.dll
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/04 - Somente Leitura/bin/Debug/net8.0/02 - Body Expressions
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/04 - Somente Leitura/bin/Debug/net8.0/02 - Body Expressions.deps.json
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/04 - Somente Leitura/bin/Debug/net8.0/02 - Body Expressions.runtimeconfig.json
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/04 - Somente Leitura/bin/Debug/net8.0/02 - Body Expressions.dll
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/04 - Somente Leitura/bin/Debug/net8.0/02 - Body Expressions.pdb
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/04 - Somente Leitura/obj/Debug/net8.0/03 - ValidandoIdade.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/04 - Somente Leitura/obj/Debug/net8.0/03 - ValidandoIdade.AssemblyInfoInputs.cache
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/04 - Somente Leitura/obj/Debug/net8.0/03 - ValidandoIdade.AssemblyInfo.cs
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/04 - Somente Leitura/obj/Debug/net8.0/03 - ValidandoIdade.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/04 - Somente Leitura/obj/Debug/net8.0/03 - ValidandoIdade.sourcelink.json
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/04 - Somente Leitura/obj/Debug/net8.0/02 - Body Expressions.dll
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/04 - Somente Leitura/obj/Debug/net8.0/refint/02 - Body Expressions.dll
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/04 - Somente Leitura/obj/Debug/net8.0/02 - Body Expressions.pdb
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/04 - Somente Leitura/obj/Debug/net8.0/03 - ValidandoIdade.genruntimeconfig.cache
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/04 - Somente Leitura/obj/Debug/net8.0/ref/02 - Body Expressions.dll

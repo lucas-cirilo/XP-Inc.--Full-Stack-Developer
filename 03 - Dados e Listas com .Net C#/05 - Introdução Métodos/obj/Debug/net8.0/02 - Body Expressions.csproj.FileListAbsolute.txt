@@ -1,0 +1,15 @@
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/bin/Debug/net8.0/02 - Body Expressions
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/bin/Debug/net8.0/02 - Body Expressions.deps.json
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/bin/Debug/net8.0/02 - Body Expressions.runtimeconfig.json
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/bin/Debug/net8.0/02 - Body Expressions.dll
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/bin/Debug/net8.0/02 - Body Expressions.pdb
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/obj/Debug/net8.0/02 - Body Expressions.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/obj/Debug/net8.0/02 - Body Expressions.AssemblyInfoInputs.cache
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/obj/Debug/net8.0/02 - Body Expressions.AssemblyInfo.cs
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/obj/Debug/net8.0/02 - Body Expressions.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/obj/Debug/net8.0/02 - Body Expressions.sourcelink.json
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/obj/Debug/net8.0/02 - Body Expressions.dll
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/obj/Debug/net8.0/refint/02 - Body Expressions.dll
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/obj/Debug/net8.0/02 - Body Expressions.pdb
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/obj/Debug/net8.0/02 - Body Expressions.genruntimeconfig.cache
+/home/lucas/Documentos/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/02 - Body Expressions/obj/Debug/net8.0/ref/02 - Body Expressions.dll
