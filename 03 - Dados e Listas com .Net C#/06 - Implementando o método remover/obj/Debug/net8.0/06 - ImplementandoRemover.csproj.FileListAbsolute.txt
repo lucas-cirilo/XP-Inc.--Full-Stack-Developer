@@ -1,0 +1,8 @@
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/06 - Implementando o método remover/obj/Debug/net8.0/06 - ImplementandoRemover.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/06 - Implementando o método remover/obj/Debug/net8.0/06 - ImplementandoRemover.AssemblyInfoInputs.cache
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/06 - Implementando o método remover/obj/Debug/net8.0/06 - ImplementandoRemover.AssemblyInfo.cs
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/06 - Implementando o método remover/obj/Debug/net8.0/06 - ImplementandoRemover.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/06 - Implementando o método remover/obj/Debug/net8.0/06 - ImplementandoRemover.sourcelink.json
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/06 - Implementando o método remover/obj/Debug/net8.0/02 - Body Expressions.dll
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/06 - Implementando o método remover/obj/Debug/net8.0/refint/02 - Body Expressions.dll
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/06 - Implementando o método remover/obj/Debug/net8.0/02 - Body Expressions.pdb

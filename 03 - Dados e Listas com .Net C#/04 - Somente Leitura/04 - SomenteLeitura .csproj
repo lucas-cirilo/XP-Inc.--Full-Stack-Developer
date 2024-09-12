@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <RootNamespace>_04_SomenteLeitura</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>disable</Nullable>
+        <AssemblyName>02 - Body Expressions</AssemblyName>
+        <PackageId>04 - SomenteLeitura</PackageId>
+        <Authors>Lucas Cirilo</Authors>
+        <Product>04 - Somente Leitura</Product>
+    </PropertyGroup>
+
+</Project>
