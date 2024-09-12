@@ -1,0 +1,16 @@
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/07 - Implementando o método listar/bin/Debug/net8.0/02 - Implementando o método listar
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/07 - Implementando o método listar/bin/Debug/net8.0/02 - Implementando o método listar .deps.json
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/07 - Implementando o método listar/bin/Debug/net8.0/02 - Implementando o método listar .runtimeconfig.json
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/07 - Implementando o método listar/bin/Debug/net8.0/02 - Implementando o método listar .dll
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/07 - Implementando o método listar/bin/Debug/net8.0/02 - Implementando o método listar .pdb
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/07 - Implementando o método listar/obj/Debug/net8.0/07 - ImplementandoListar.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/07 - Implementando o método listar/obj/Debug/net8.0/07 - ImplementandoListar.AssemblyInfoInputs.cache
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/07 - Implementando o método listar/obj/Debug/net8.0/07 - ImplementandoListar.AssemblyInfo.cs
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/07 - Implementando o método listar/obj/Debug/net8.0/07 - ImplementandoListar.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/07 - Implementando o método listar/obj/Debug/net8.0/07 - ImplementandoListar.sourcelink.json
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/07 - Implementando o método listar/obj/Debug/net8.0/02 - Implementando o método listar .dll
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/07 - Implementando o método listar/obj/Debug/net8.0/refint/02 - Implementando o método listar .dll
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/07 - Implementando o método listar/obj/Debug/net8.0/02 - Implementando o método listar .pdb
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/07 - Implementando o método listar/obj/Debug/net8.0/07 - ImplementandoListar.genruntimeconfig.cache
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/07 - Implementando o método listar/obj/Debug/net8.0/ref/02 - Implementando o método listar .dll
+/home/lucas/Documentos/Github/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/07 - Implementando o método listar/bin/Debug/net8.0/02 - Implementando o método listar 

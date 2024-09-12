@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <RootNamespace>_07_ImplementandoListar</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>disable</Nullable>
+        <AssemblyName>02 - Implementando o método listar </AssemblyName>
+        <PackageId>_07_ImplementandoListar</PackageId>
+        <Authors>Lucas Cirilo</Authors>
+        <Product>_07_ImplementandoListar</Product>
+    </PropertyGroup>
+
+</Project>
