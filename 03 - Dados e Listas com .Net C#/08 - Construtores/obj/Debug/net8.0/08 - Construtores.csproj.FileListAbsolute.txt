@@ -1,0 +1,15 @@
+/home/lucas/Documentos/Local /08 - Construtores/bin/Debug/net8.0/_08_Construtores
+/home/lucas/Documentos/Local /08 - Construtores/bin/Debug/net8.0/_08_Construtores .deps.json
+/home/lucas/Documentos/Local /08 - Construtores/bin/Debug/net8.0/_08_Construtores .runtimeconfig.json
+/home/lucas/Documentos/Local /08 - Construtores/bin/Debug/net8.0/_08_Construtores .dll
+/home/lucas/Documentos/Local /08 - Construtores/bin/Debug/net8.0/_08_Construtores .pdb
+/home/lucas/Documentos/Local /08 - Construtores/obj/Debug/net8.0/08 - Construtores.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/Local /08 - Construtores/obj/Debug/net8.0/08 - Construtores.AssemblyInfoInputs.cache
+/home/lucas/Documentos/Local /08 - Construtores/obj/Debug/net8.0/08 - Construtores.AssemblyInfo.cs
+/home/lucas/Documentos/Local /08 - Construtores/obj/Debug/net8.0/08 - Construtores.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/Local /08 - Construtores/obj/Debug/net8.0/_08_Construtores .dll
+/home/lucas/Documentos/Local /08 - Construtores/obj/Debug/net8.0/refint/_08_Construtores .dll
+/home/lucas/Documentos/Local /08 - Construtores/obj/Debug/net8.0/_08_Construtores .pdb
+/home/lucas/Documentos/Local /08 - Construtores/obj/Debug/net8.0/08 - Construtores.genruntimeconfig.cache
+/home/lucas/Documentos/Local /08 - Construtores/obj/Debug/net8.0/ref/_08_Construtores .dll
+/home/lucas/Documentos/Local /08 - Construtores/bin/Debug/net8.0/_08_Construtores 
