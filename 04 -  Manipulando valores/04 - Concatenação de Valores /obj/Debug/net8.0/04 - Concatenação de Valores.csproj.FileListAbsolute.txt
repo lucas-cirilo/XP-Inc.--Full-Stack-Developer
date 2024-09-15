@@ -1,0 +1,15 @@
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/04 - Concatenação de Valores /bin/Debug/net8.0/04 - Concatenação de Valores
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/04 - Concatenação de Valores /bin/Debug/net8.0/04 - Concatenação de Valores.deps.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/04 - Concatenação de Valores /bin/Debug/net8.0/04 - Concatenação de Valores.runtimeconfig.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/04 - Concatenação de Valores /bin/Debug/net8.0/04 - Concatenação de Valores.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/04 - Concatenação de Valores /bin/Debug/net8.0/04 - Concatenação de Valores.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/04 - Concatenação de Valores /obj/Debug/net8.0/04 - Concatenação de Valores.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/04 - Concatenação de Valores /obj/Debug/net8.0/04 - Concatenação de Valores.AssemblyInfoInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/04 - Concatenação de Valores /obj/Debug/net8.0/04 - Concatenação de Valores.AssemblyInfo.cs
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/04 - Concatenação de Valores /obj/Debug/net8.0/04 - Concatenação de Valores.csproj.CoreCompileInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/04 - Concatenação de Valores /obj/Debug/net8.0/04 - Concatenação de Valores.sourcelink.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/04 - Concatenação de Valores /obj/Debug/net8.0/04 - Concatenação de Valores.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/04 - Concatenação de Valores /obj/Debug/net8.0/refint/04 - Concatenação de Valores.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/04 - Concatenação de Valores /obj/Debug/net8.0/04 - Concatenação de Valores.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/04 - Concatenação de Valores /obj/Debug/net8.0/04 - Concatenação de Valores.genruntimeconfig.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/04 - Concatenação de Valores /obj/Debug/net8.0/ref/04 - Concatenação de Valores.dll
