@@ -1,0 +1,15 @@
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/09 - Implementado Construtores /bin/Debug/net8.0/09 - implementando Construtores
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/09 - Implementado Construtores /bin/Debug/net8.0/09 - implementando Construtores.deps.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/09 - Implementado Construtores /bin/Debug/net8.0/09 - implementando Construtores.runtimeconfig.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/09 - Implementado Construtores /bin/Debug/net8.0/09 - implementando Construtores.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/09 - Implementado Construtores /bin/Debug/net8.0/09 - implementando Construtores.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/09 - Implementado Construtores /obj/Debug/net8.0/09 - implementando Construtores.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/09 - Implementado Construtores /obj/Debug/net8.0/09 - implementando Construtores.AssemblyInfoInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/09 - Implementado Construtores /obj/Debug/net8.0/09 - implementando Construtores.AssemblyInfo.cs
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/09 - Implementado Construtores /obj/Debug/net8.0/09 - implementando Construtores.csproj.CoreCompileInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/09 - Implementado Construtores /obj/Debug/net8.0/09 - implementando Construtores.sourcelink.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/09 - Implementado Construtores /obj/Debug/net8.0/09 - implementando Construtores.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/09 - Implementado Construtores /obj/Debug/net8.0/refint/09 - implementando Construtores.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/09 - Implementado Construtores /obj/Debug/net8.0/09 - implementando Construtores.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/09 - Implementado Construtores /obj/Debug/net8.0/09 - implementando Construtores.genruntimeconfig.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/09 - Implementado Construtores /obj/Debug/net8.0/ref/09 - implementando Construtores.dll

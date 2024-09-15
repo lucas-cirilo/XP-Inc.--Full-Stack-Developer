@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "kiv+NSPP1/0=",
+  "dgSpecHash": "SHIxrj5UPr4=",
   "success": true,
-  "projectFilePath": "/home/lucas/Documentos/Local /08 - Construtores/08 - Construtores.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/08 - Construtores/08 - Construtores.csproj",
+  "expectedPackageFiles": [
+    "/home/lucas/.nuget/packages/microsoft.netcore.app.ref/8.0.8/microsoft.netcore.app.ref.8.0.8.nupkg.sha512",
+    "/home/lucas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512",
+    "/home/lucas/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.8/microsoft.netcore.app.host.linux-x64.8.0.8.nupkg.sha512"
+  ],
   "logs": []
 }

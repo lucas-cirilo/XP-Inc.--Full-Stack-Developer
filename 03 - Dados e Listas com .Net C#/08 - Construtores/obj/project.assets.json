@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/lucas/Documentos/Local /08 - Construtores/08 - Construtores.csproj",
+      "projectUniqueName": "/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/08 - Construtores/08 - Construtores.csproj",
       "projectName": "08 - Construtores",
-      "projectPath": "/home/lucas/Documentos/Local /08 - Construtores/08 - Construtores.csproj",
+      "projectPath": "/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/08 - Construtores/08 - Construtores.csproj",
       "packagesPath": "/home/lucas/.nuget/packages/",
-      "outputPath": "/home/lucas/Documentos/Local /08 - Construtores/obj/",
+      "outputPath": "/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/03 - Dados e Listas com .Net C#/08 - Construtores/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/lucas/.nuget/NuGet/NuGet.Config"
@@ -42,7 +42,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
+        "auditMode": "all"
       }
     },
     "frameworks": {
@@ -59,12 +59,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.8, 8.0.8]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[8.0.8, 8.0.8]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.8, 8.0.8]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/250/sdk/8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/lucas/.dotnet/sdk/9.0.100-rc.1.24452.12/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

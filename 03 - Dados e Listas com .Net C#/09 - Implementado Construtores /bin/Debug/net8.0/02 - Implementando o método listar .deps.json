@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "02 - Implementando o método listar /1.0.0": {
+        "runtime": {
+          "02 - Implementando o método listar .dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02 - Implementando o método listar /1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
