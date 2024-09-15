@@ -1,0 +1,15 @@
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/03 - Ajustando a numeração/bin/Debug/net8.0/03 - Ajustando a numeração
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/03 - Ajustando a numeração/bin/Debug/net8.0/03 - Ajustando a numeração.deps.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/03 - Ajustando a numeração/bin/Debug/net8.0/03 - Ajustando a numeração.runtimeconfig.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/03 - Ajustando a numeração/bin/Debug/net8.0/03 - Ajustando a numeração.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/03 - Ajustando a numeração/bin/Debug/net8.0/03 - Ajustando a numeração.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/03 - Ajustando a numeração/obj/Debug/net8.0/03 - Ajustando a numeração.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/03 - Ajustando a numeração/obj/Debug/net8.0/03 - Ajustando a numeração.AssemblyInfoInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/03 - Ajustando a numeração/obj/Debug/net8.0/03 - Ajustando a numeração.AssemblyInfo.cs
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/03 - Ajustando a numeração/obj/Debug/net8.0/03 - Ajustando a numeração.csproj.CoreCompileInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/03 - Ajustando a numeração/obj/Debug/net8.0/03 - Ajustando a numeração.sourcelink.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/03 - Ajustando a numeração/obj/Debug/net8.0/03 - Ajustando a numeração.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/03 - Ajustando a numeração/obj/Debug/net8.0/refint/03 - Ajustando a numeração.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/03 - Ajustando a numeração/obj/Debug/net8.0/03 - Ajustando a numeração.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/03 - Ajustando a numeração/obj/Debug/net8.0/03 - Ajustando a numeração.genruntimeconfig.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/03 - Ajustando a numeração/obj/Debug/net8.0/ref/03 - Ajustando a numeração.dll

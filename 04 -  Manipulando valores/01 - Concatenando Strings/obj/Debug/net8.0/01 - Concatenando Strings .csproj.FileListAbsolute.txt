@@ -1,0 +1,16 @@
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/01 - Concatenando Strings/bin/Debug/net8.0/01 - Concatenando Strings
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/01 - Concatenando Strings/bin/Debug/net8.0/01 - Concatenando Strings .deps.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/01 - Concatenando Strings/bin/Debug/net8.0/01 - Concatenando Strings .runtimeconfig.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/01 - Concatenando Strings/bin/Debug/net8.0/01 - Concatenando Strings .dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/01 - Concatenando Strings/bin/Debug/net8.0/01 - Concatenando Strings .pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/01 - Concatenando Strings/obj/Debug/net8.0/01 - Concatenando Strings .GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/01 - Concatenando Strings/obj/Debug/net8.0/01 - Concatenando Strings .AssemblyInfoInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/01 - Concatenando Strings/obj/Debug/net8.0/01 - Concatenando Strings .AssemblyInfo.cs
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/01 - Concatenando Strings/obj/Debug/net8.0/01 - Concatenando Strings .csproj.CoreCompileInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/01 - Concatenando Strings/obj/Debug/net8.0/01 - Concatenando Strings .sourcelink.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/01 - Concatenando Strings/obj/Debug/net8.0/01 - Concatenando Strings .dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/01 - Concatenando Strings/obj/Debug/net8.0/refint/01 - Concatenando Strings .dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/01 - Concatenando Strings/obj/Debug/net8.0/01 - Concatenando Strings .pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/01 - Concatenando Strings/obj/Debug/net8.0/01 - Concatenando Strings .genruntimeconfig.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/01 - Concatenando Strings/obj/Debug/net8.0/ref/01 - Concatenando Strings .dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/01 - Concatenando Strings/bin/Debug/net8.0/01 - Concatenando Strings 

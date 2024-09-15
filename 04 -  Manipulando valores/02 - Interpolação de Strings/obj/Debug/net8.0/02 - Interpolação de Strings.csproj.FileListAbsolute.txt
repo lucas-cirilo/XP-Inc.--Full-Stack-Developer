@@ -1,0 +1,15 @@
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/02 - Interpolação de Strings/bin/Debug/net8.0/02 - Interpolação de Strings
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/02 - Interpolação de Strings/bin/Debug/net8.0/02 - Interpolação de Strings.deps.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/02 - Interpolação de Strings/bin/Debug/net8.0/02 - Interpolação de Strings.runtimeconfig.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/02 - Interpolação de Strings/bin/Debug/net8.0/02 - Interpolação de Strings.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/02 - Interpolação de Strings/bin/Debug/net8.0/02 - Interpolação de Strings.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/02 - Interpolação de Strings/obj/Debug/net8.0/02 - Interpolação de Strings.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/02 - Interpolação de Strings/obj/Debug/net8.0/02 - Interpolação de Strings.AssemblyInfoInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/02 - Interpolação de Strings/obj/Debug/net8.0/02 - Interpolação de Strings.AssemblyInfo.cs
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/02 - Interpolação de Strings/obj/Debug/net8.0/02 - Interpolação de Strings.csproj.CoreCompileInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/02 - Interpolação de Strings/obj/Debug/net8.0/02 - Interpolação de Strings.sourcelink.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/02 - Interpolação de Strings/obj/Debug/net8.0/02 - Interpolação de Strings.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/02 - Interpolação de Strings/obj/Debug/net8.0/refint/02 - Interpolação de Strings.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/02 - Interpolação de Strings/obj/Debug/net8.0/02 - Interpolação de Strings.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/02 - Interpolação de Strings/obj/Debug/net8.0/02 - Interpolação de Strings.genruntimeconfig.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/02 - Interpolação de Strings/obj/Debug/net8.0/ref/02 - Interpolação de Strings.dll
