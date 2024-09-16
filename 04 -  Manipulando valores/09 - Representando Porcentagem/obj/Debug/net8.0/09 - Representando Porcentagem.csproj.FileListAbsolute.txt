@@ -1,0 +1,15 @@
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/09 - Representando Porcentagem/bin/Debug/net8.0/09 - Representando Porcentagem
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/09 - Representando Porcentagem/bin/Debug/net8.0/09 - Representando Porcentagem.deps.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/09 - Representando Porcentagem/bin/Debug/net8.0/09 - Representando Porcentagem.runtimeconfig.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/09 - Representando Porcentagem/bin/Debug/net8.0/09 - Representando Porcentagem.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/09 - Representando Porcentagem/bin/Debug/net8.0/09 - Representando Porcentagem.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/09 - Representando Porcentagem/obj/Debug/net8.0/09 - Representando Porcentagem.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/09 - Representando Porcentagem/obj/Debug/net8.0/09 - Representando Porcentagem.AssemblyInfoInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/09 - Representando Porcentagem/obj/Debug/net8.0/09 - Representando Porcentagem.AssemblyInfo.cs
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/09 - Representando Porcentagem/obj/Debug/net8.0/09 - Representando Porcentagem.csproj.CoreCompileInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/09 - Representando Porcentagem/obj/Debug/net8.0/09 - Representando Porcentagem.sourcelink.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/09 - Representando Porcentagem/obj/Debug/net8.0/09 - Representando Porcentagem.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/09 - Representando Porcentagem/obj/Debug/net8.0/refint/09 - Representando Porcentagem.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/09 - Representando Porcentagem/obj/Debug/net8.0/09 - Representando Porcentagem.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/09 - Representando Porcentagem/obj/Debug/net8.0/09 - Representando Porcentagem.genruntimeconfig.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/09 - Representando Porcentagem/obj/Debug/net8.0/ref/09 - Representando Porcentagem.dll

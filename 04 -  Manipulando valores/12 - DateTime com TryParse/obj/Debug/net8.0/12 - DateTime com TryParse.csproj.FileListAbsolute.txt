@@ -1,0 +1,15 @@
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/12 - DateTime com TryParse/obj/Debug/net8.0/12 - DateTime com TryParse.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/12 - DateTime com TryParse/obj/Debug/net8.0/12 - DateTime com TryParse.AssemblyInfoInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/12 - DateTime com TryParse/obj/Debug/net8.0/12 - DateTime com TryParse.AssemblyInfo.cs
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/12 - DateTime com TryParse/obj/Debug/net8.0/12 - DateTime com TryParse.csproj.CoreCompileInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/12 - DateTime com TryParse/obj/Debug/net8.0/12 - DateTime com TryParse.sourcelink.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/12 - DateTime com TryParse/bin/Debug/net8.0/12 - DateTime com TryParse
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/12 - DateTime com TryParse/bin/Debug/net8.0/12 - DateTime com TryParse.deps.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/12 - DateTime com TryParse/bin/Debug/net8.0/12 - DateTime com TryParse.runtimeconfig.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/12 - DateTime com TryParse/bin/Debug/net8.0/12 - DateTime com TryParse.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/12 - DateTime com TryParse/bin/Debug/net8.0/12 - DateTime com TryParse.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/12 - DateTime com TryParse/obj/Debug/net8.0/12 - DateTime com TryParse.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/12 - DateTime com TryParse/obj/Debug/net8.0/refint/12 - DateTime com TryParse.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/12 - DateTime com TryParse/obj/Debug/net8.0/12 - DateTime com TryParse.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/12 - DateTime com TryParse/obj/Debug/net8.0/12 - DateTime com TryParse.genruntimeconfig.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/12 - DateTime com TryParse/obj/Debug/net8.0/ref/12 - DateTime com TryParse.dll

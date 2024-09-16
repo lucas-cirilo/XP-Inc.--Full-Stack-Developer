@@ -1,0 +1,15 @@
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/07 - Alterando a localização da Cultura/bin/Debug/net8.0/07 - Alterando a localização da Cultura
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/07 - Alterando a localização da Cultura/bin/Debug/net8.0/07 - Alterando a localização da Cultura.deps.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/07 - Alterando a localização da Cultura/bin/Debug/net8.0/07 - Alterando a localização da Cultura.runtimeconfig.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/07 - Alterando a localização da Cultura/bin/Debug/net8.0/07 - Alterando a localização da Cultura.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/07 - Alterando a localização da Cultura/bin/Debug/net8.0/07 - Alterando a localização da Cultura.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/07 - Alterando a localização da Cultura/obj/Debug/net8.0/07 - Alterando a localização da Cultura.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/07 - Alterando a localização da Cultura/obj/Debug/net8.0/07 - Alterando a localização da Cultura.AssemblyInfoInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/07 - Alterando a localização da Cultura/obj/Debug/net8.0/07 - Alterando a localização da Cultura.AssemblyInfo.cs
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/07 - Alterando a localização da Cultura/obj/Debug/net8.0/07 - Alterando a localização da Cultura.csproj.CoreCompileInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/07 - Alterando a localização da Cultura/obj/Debug/net8.0/07 - Alterando a localização da Cultura.sourcelink.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/07 - Alterando a localização da Cultura/obj/Debug/net8.0/07 - Alterando a localização da Cultura.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/07 - Alterando a localização da Cultura/obj/Debug/net8.0/refint/07 - Alterando a localização da Cultura.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/07 - Alterando a localização da Cultura/obj/Debug/net8.0/07 - Alterando a localização da Cultura.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/07 - Alterando a localização da Cultura/obj/Debug/net8.0/07 - Alterando a localização da Cultura.genruntimeconfig.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/07 - Alterando a localização da Cultura/obj/Debug/net8.0/ref/07 - Alterando a localização da Cultura.dll

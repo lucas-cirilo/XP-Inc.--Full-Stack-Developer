@@ -1,0 +1,15 @@
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/11 - Formatando data e hora/bin/Debug/net8.0/11 - Formatando data e hora
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/11 - Formatando data e hora/bin/Debug/net8.0/11 - Formatando data e hora.deps.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/11 - Formatando data e hora/bin/Debug/net8.0/11 - Formatando data e hora.runtimeconfig.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/11 - Formatando data e hora/bin/Debug/net8.0/11 - Formatando data e hora.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/11 - Formatando data e hora/bin/Debug/net8.0/11 - Formatando data e hora.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/11 - Formatando data e hora/obj/Debug/net8.0/11 - Formatando data e hora.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/11 - Formatando data e hora/obj/Debug/net8.0/11 - Formatando data e hora.AssemblyInfoInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/11 - Formatando data e hora/obj/Debug/net8.0/11 - Formatando data e hora.AssemblyInfo.cs
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/11 - Formatando data e hora/obj/Debug/net8.0/11 - Formatando data e hora.csproj.CoreCompileInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/11 - Formatando data e hora/obj/Debug/net8.0/11 - Formatando data e hora.sourcelink.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/11 - Formatando data e hora/obj/Debug/net8.0/11 - Formatando data e hora.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/11 - Formatando data e hora/obj/Debug/net8.0/refint/11 - Formatando data e hora.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/11 - Formatando data e hora/obj/Debug/net8.0/11 - Formatando data e hora.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/11 - Formatando data e hora/obj/Debug/net8.0/11 - Formatando data e hora.genruntimeconfig.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/11 - Formatando data e hora/obj/Debug/net8.0/ref/11 - Formatando data e hora.dll

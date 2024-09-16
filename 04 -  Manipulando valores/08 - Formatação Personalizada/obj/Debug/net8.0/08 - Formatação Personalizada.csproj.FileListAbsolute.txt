@@ -1,0 +1,15 @@
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/08 - Formatação Personalizada/bin/Debug/net8.0/08 - Formatação Personalizada
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/08 - Formatação Personalizada/bin/Debug/net8.0/08 - Formatação Personalizada.deps.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/08 - Formatação Personalizada/bin/Debug/net8.0/08 - Formatação Personalizada.runtimeconfig.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/08 - Formatação Personalizada/bin/Debug/net8.0/08 - Formatação Personalizada.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/08 - Formatação Personalizada/bin/Debug/net8.0/08 - Formatação Personalizada.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/08 - Formatação Personalizada/obj/Debug/net8.0/08 - Formatação Personalizada.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/08 - Formatação Personalizada/obj/Debug/net8.0/08 - Formatação Personalizada.AssemblyInfoInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/08 - Formatação Personalizada/obj/Debug/net8.0/08 - Formatação Personalizada.AssemblyInfo.cs
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/08 - Formatação Personalizada/obj/Debug/net8.0/08 - Formatação Personalizada.csproj.CoreCompileInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/08 - Formatação Personalizada/obj/Debug/net8.0/08 - Formatação Personalizada.sourcelink.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/08 - Formatação Personalizada/obj/Debug/net8.0/08 - Formatação Personalizada.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/08 - Formatação Personalizada/obj/Debug/net8.0/refint/08 - Formatação Personalizada.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/08 - Formatação Personalizada/obj/Debug/net8.0/08 - Formatação Personalizada.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/08 - Formatação Personalizada/obj/Debug/net8.0/08 - Formatação Personalizada.genruntimeconfig.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/08 - Formatação Personalizada/obj/Debug/net8.0/ref/08 - Formatação Personalizada.dll

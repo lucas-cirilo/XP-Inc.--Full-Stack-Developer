@@ -1,0 +1,15 @@
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/06 - Alterando a localização do Código/bin/Debug/net8.0/06 - Alterando a localização do Código
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/06 - Alterando a localização do Código/bin/Debug/net8.0/06 - Alterando a localização do Código.deps.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/06 - Alterando a localização do Código/bin/Debug/net8.0/06 - Alterando a localização do Código.runtimeconfig.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/06 - Alterando a localização do Código/bin/Debug/net8.0/06 - Alterando a localização do Código.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/06 - Alterando a localização do Código/bin/Debug/net8.0/06 - Alterando a localização do Código.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/06 - Alterando a localização do Código/obj/Debug/net8.0/06 - Alterando a localização do Código.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/06 - Alterando a localização do Código/obj/Debug/net8.0/06 - Alterando a localização do Código.AssemblyInfoInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/06 - Alterando a localização do Código/obj/Debug/net8.0/06 - Alterando a localização do Código.AssemblyInfo.cs
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/06 - Alterando a localização do Código/obj/Debug/net8.0/06 - Alterando a localização do Código.csproj.CoreCompileInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/06 - Alterando a localização do Código/obj/Debug/net8.0/06 - Alterando a localização do Código.sourcelink.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/06 - Alterando a localização do Código/obj/Debug/net8.0/06 - Alterando a localização do Código.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/06 - Alterando a localização do Código/obj/Debug/net8.0/refint/06 - Alterando a localização do Código.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/06 - Alterando a localização do Código/obj/Debug/net8.0/06 - Alterando a localização do Código.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/06 - Alterando a localização do Código/obj/Debug/net8.0/06 - Alterando a localização do Código.genruntimeconfig.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/06 - Alterando a localização do Código/obj/Debug/net8.0/ref/06 - Alterando a localização do Código.dll

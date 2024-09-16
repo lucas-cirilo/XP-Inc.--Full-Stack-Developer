@@ -1,0 +1,15 @@
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/05 - Formatando valores monetários/bin/Debug/net8.0/05 - Formatando Valores Monetários
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/05 - Formatando valores monetários/bin/Debug/net8.0/05 - Formatando Valores Monetários.deps.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/05 - Formatando valores monetários/bin/Debug/net8.0/05 - Formatando Valores Monetários.runtimeconfig.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/05 - Formatando valores monetários/bin/Debug/net8.0/05 - Formatando Valores Monetários.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/05 - Formatando valores monetários/bin/Debug/net8.0/05 - Formatando Valores Monetários.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/05 - Formatando valores monetários/obj/Debug/net8.0/05 - Formatando Valores Monetários.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/05 - Formatando valores monetários/obj/Debug/net8.0/05 - Formatando Valores Monetários.AssemblyInfoInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/05 - Formatando valores monetários/obj/Debug/net8.0/05 - Formatando Valores Monetários.AssemblyInfo.cs
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/05 - Formatando valores monetários/obj/Debug/net8.0/05 - Formatando Valores Monetários.csproj.CoreCompileInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/05 - Formatando valores monetários/obj/Debug/net8.0/05 - Formatando Valores Monetários.sourcelink.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/05 - Formatando valores monetários/obj/Debug/net8.0/05 - Formatando Valores Monetários.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/05 - Formatando valores monetários/obj/Debug/net8.0/refint/05 - Formatando Valores Monetários.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/05 - Formatando valores monetários/obj/Debug/net8.0/05 - Formatando Valores Monetários.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/05 - Formatando valores monetários/obj/Debug/net8.0/05 - Formatando Valores Monetários.genruntimeconfig.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/05 - Formatando valores monetários/obj/Debug/net8.0/ref/05 - Formatando Valores Monetários.dll

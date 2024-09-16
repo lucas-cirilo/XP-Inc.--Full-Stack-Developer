@@ -1,0 +1,15 @@
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/10 - Formatar Tipo DateTime/bin/Debug/net8.0/10 - Formatar Tipo DateTime
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/10 - Formatar Tipo DateTime/bin/Debug/net8.0/10 - Formatar Tipo DateTime.deps.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/10 - Formatar Tipo DateTime/bin/Debug/net8.0/10 - Formatar Tipo DateTime.runtimeconfig.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/10 - Formatar Tipo DateTime/bin/Debug/net8.0/10 - Formatar Tipo DateTime.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/10 - Formatar Tipo DateTime/bin/Debug/net8.0/10 - Formatar Tipo DateTime.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/10 - Formatar Tipo DateTime/obj/Debug/net8.0/10 - Formatar Tipo DateTime.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/10 - Formatar Tipo DateTime/obj/Debug/net8.0/10 - Formatar Tipo DateTime.AssemblyInfoInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/10 - Formatar Tipo DateTime/obj/Debug/net8.0/10 - Formatar Tipo DateTime.AssemblyInfo.cs
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/10 - Formatar Tipo DateTime/obj/Debug/net8.0/10 - Formatar Tipo DateTime.csproj.CoreCompileInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/10 - Formatar Tipo DateTime/obj/Debug/net8.0/10 - Formatar Tipo DateTime.sourcelink.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/10 - Formatar Tipo DateTime/obj/Debug/net8.0/10 - Formatar Tipo DateTime.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/10 - Formatar Tipo DateTime/obj/Debug/net8.0/refint/10 - Formatar Tipo DateTime.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/10 - Formatar Tipo DateTime/obj/Debug/net8.0/10 - Formatar Tipo DateTime.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/10 - Formatar Tipo DateTime/obj/Debug/net8.0/10 - Formatar Tipo DateTime.genruntimeconfig.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/10 - Formatar Tipo DateTime/obj/Debug/net8.0/ref/10 - Formatar Tipo DateTime.dll
