@@ -3,7 +3,7 @@
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>net8.0</TargetFramework>
-        <RootNamespace>13 - Validando o Retorno TryParse</RootNamespace>
+        <RootNamespace>01 - Realizando a Leitura de um Arquivo</RootNamespace>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>disable</Nullable>
         <Authors>Lucas Santos</Authors>

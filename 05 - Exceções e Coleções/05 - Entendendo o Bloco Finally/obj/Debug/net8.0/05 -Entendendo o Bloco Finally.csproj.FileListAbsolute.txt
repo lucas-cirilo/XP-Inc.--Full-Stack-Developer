@@ -1,0 +1,15 @@
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/05 - Entendendo o Bloco Finally/bin/Debug/net8.0/05 -Entendendo o Bloco Finally
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/05 - Entendendo o Bloco Finally/bin/Debug/net8.0/05 -Entendendo o Bloco Finally.deps.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/05 - Entendendo o Bloco Finally/bin/Debug/net8.0/05 -Entendendo o Bloco Finally.runtimeconfig.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/05 - Entendendo o Bloco Finally/bin/Debug/net8.0/05 -Entendendo o Bloco Finally.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/05 - Entendendo o Bloco Finally/bin/Debug/net8.0/05 -Entendendo o Bloco Finally.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/05 - Entendendo o Bloco Finally/obj/Debug/net8.0/05 -Entendendo o Bloco Finally.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/05 - Entendendo o Bloco Finally/obj/Debug/net8.0/05 -Entendendo o Bloco Finally.AssemblyInfoInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/05 - Entendendo o Bloco Finally/obj/Debug/net8.0/05 -Entendendo o Bloco Finally.AssemblyInfo.cs
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/05 - Entendendo o Bloco Finally/obj/Debug/net8.0/05 -Entendendo o Bloco Finally.csproj.CoreCompileInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/05 - Entendendo o Bloco Finally/obj/Debug/net8.0/05 -Entendendo o Bloco Finally.sourcelink.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/05 - Entendendo o Bloco Finally/obj/Debug/net8.0/05 -Entendendo o Bloco Finally.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/05 - Entendendo o Bloco Finally/obj/Debug/net8.0/refint/05 -Entendendo o Bloco Finally.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/05 - Entendendo o Bloco Finally/obj/Debug/net8.0/05 -Entendendo o Bloco Finally.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/05 - Entendendo o Bloco Finally/obj/Debug/net8.0/05 -Entendendo o Bloco Finally.genruntimeconfig.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/05 - Entendendo o Bloco Finally/obj/Debug/net8.0/ref/05 -Entendendo o Bloco Finally.dll
