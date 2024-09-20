@@ -4,7 +4,11 @@ using System.Globalization; // adiciona a biblioteca para usar a cultura
 
 try
 {
+<<<<<<< HEAD
+    string[] linhas = File.ReadAllLines("Arquivos/ArquivoLeitura.txt");
+=======
     string[] linhas = File.ReadAllLines("Arquivos/Arquivo_Leitura.txt");
+>>>>>>> origin/main
     foreach (string linha in linhas)
     {
         Console.WriteLine(linha);
@@ -21,4 +25,11 @@ catch (DirectoryNotFoundException ex)
 catch (Exception ex)
 {
     Console.WriteLine($"Ocorreu uma exceção: {ex.Message}");
+<<<<<<< HEAD
+}
+finally
+{
+        Console.WriteLine("Chegastes ao fim do programa");
+=======
+>>>>>>> origin/main
 }

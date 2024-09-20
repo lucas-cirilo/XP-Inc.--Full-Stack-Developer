@@ -1,0 +1,15 @@
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/06 - Usando o Throw/bin/Debug/net8.0/06 - Usando o Throw
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/06 - Usando o Throw/bin/Debug/net8.0/06 - Usando o Throw.deps.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/06 - Usando o Throw/bin/Debug/net8.0/06 - Usando o Throw.runtimeconfig.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/06 - Usando o Throw/bin/Debug/net8.0/06 - Usando o Throw.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/06 - Usando o Throw/bin/Debug/net8.0/06 - Usando o Throw.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/06 - Usando o Throw/obj/Debug/net8.0/06 - Usando o Throw.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/06 - Usando o Throw/obj/Debug/net8.0/06 - Usando o Throw.AssemblyInfoInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/06 - Usando o Throw/obj/Debug/net8.0/06 - Usando o Throw.AssemblyInfo.cs
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/06 - Usando o Throw/obj/Debug/net8.0/06 - Usando o Throw.csproj.CoreCompileInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/06 - Usando o Throw/obj/Debug/net8.0/06 - Usando o Throw.sourcelink.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/06 - Usando o Throw/obj/Debug/net8.0/06 - Usando o Throw.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/06 - Usando o Throw/obj/Debug/net8.0/refint/06 - Usando o Throw.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/06 - Usando o Throw/obj/Debug/net8.0/06 - Usando o Throw.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/06 - Usando o Throw/obj/Debug/net8.0/06 - Usando o Throw.genruntimeconfig.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/06 - Usando o Throw/obj/Debug/net8.0/ref/06 - Usando o Throw.dll
