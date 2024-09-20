@@ -1,0 +1,15 @@
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/04 - Exceção Genérica Específica/bin/Debug/net8.0/04 - Exceção Genérica Específica
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/04 - Exceção Genérica Específica/bin/Debug/net8.0/04 - Exceção Genérica Específica.deps.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/04 - Exceção Genérica Específica/bin/Debug/net8.0/04 - Exceção Genérica Específica.runtimeconfig.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/04 - Exceção Genérica Específica/bin/Debug/net8.0/04 - Exceção Genérica Específica.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/04 - Exceção Genérica Específica/bin/Debug/net8.0/04 - Exceção Genérica Específica.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/04 - Exceção Genérica Específica/obj/Debug/net8.0/04 - Exceção Genérica Específica.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/04 - Exceção Genérica Específica/obj/Debug/net8.0/04 - Exceção Genérica Específica.AssemblyInfoInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/04 - Exceção Genérica Específica/obj/Debug/net8.0/04 - Exceção Genérica Específica.AssemblyInfo.cs
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/04 - Exceção Genérica Específica/obj/Debug/net8.0/04 - Exceção Genérica Específica.csproj.CoreCompileInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/04 - Exceção Genérica Específica/obj/Debug/net8.0/04 - Exceção Genérica Específica.sourcelink.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/04 - Exceção Genérica Específica/obj/Debug/net8.0/04 - Exceção Genérica Específica.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/04 - Exceção Genérica Específica/obj/Debug/net8.0/refint/04 - Exceção Genérica Específica.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/04 - Exceção Genérica Específica/obj/Debug/net8.0/04 - Exceção Genérica Específica.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/04 - Exceção Genérica Específica/obj/Debug/net8.0/04 - Exceção Genérica Específica.genruntimeconfig.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/04 - Exceção Genérica Específica/obj/Debug/net8.0/ref/04 - Exceção Genérica Específica.dll

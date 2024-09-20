@@ -1,0 +1,15 @@
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/01 - Realizando a Leitura de um arquivo/bin/Debug/net8.0/01 - Realizando a Leitura de um arquivo
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/01 - Realizando a Leitura de um arquivo/bin/Debug/net8.0/01 - Realizando a Leitura de um arquivo.deps.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/01 - Realizando a Leitura de um arquivo/bin/Debug/net8.0/01 - Realizando a Leitura de um arquivo.runtimeconfig.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/01 - Realizando a Leitura de um arquivo/bin/Debug/net8.0/01 - Realizando a Leitura de um arquivo.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/01 - Realizando a Leitura de um arquivo/bin/Debug/net8.0/01 - Realizando a Leitura de um arquivo.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/01 - Realizando a Leitura de um arquivo/obj/Debug/net8.0/01 - Realizando a Leitura de um arquivo.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/01 - Realizando a Leitura de um arquivo/obj/Debug/net8.0/01 - Realizando a Leitura de um arquivo.AssemblyInfoInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/01 - Realizando a Leitura de um arquivo/obj/Debug/net8.0/01 - Realizando a Leitura de um arquivo.AssemblyInfo.cs
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/01 - Realizando a Leitura de um arquivo/obj/Debug/net8.0/01 - Realizando a Leitura de um arquivo.csproj.CoreCompileInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/01 - Realizando a Leitura de um arquivo/obj/Debug/net8.0/01 - Realizando a Leitura de um arquivo.sourcelink.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/01 - Realizando a Leitura de um arquivo/obj/Debug/net8.0/01 - Realizando a Leitura de um arquivo.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/01 - Realizando a Leitura de um arquivo/obj/Debug/net8.0/refint/01 - Realizando a Leitura de um arquivo.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/01 - Realizando a Leitura de um arquivo/obj/Debug/net8.0/01 - Realizando a Leitura de um arquivo.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/01 - Realizando a Leitura de um arquivo/obj/Debug/net8.0/01 - Realizando a Leitura de um arquivo.genruntimeconfig.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/01 - Realizando a Leitura de um arquivo/obj/Debug/net8.0/ref/01 - Realizando a Leitura de um arquivo.dll

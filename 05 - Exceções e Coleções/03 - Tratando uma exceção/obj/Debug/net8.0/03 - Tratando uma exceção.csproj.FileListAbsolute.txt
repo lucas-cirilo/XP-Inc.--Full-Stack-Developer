@@ -1,0 +1,15 @@
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/03 - Tratando uma exceção/obj/Debug/net8.0/03 - Tratando uma exceção.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/03 - Tratando uma exceção/obj/Debug/net8.0/03 - Tratando uma exceção.AssemblyInfoInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/03 - Tratando uma exceção/obj/Debug/net8.0/03 - Tratando uma exceção.AssemblyInfo.cs
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/03 - Tratando uma exceção/obj/Debug/net8.0/03 - Tratando uma exceção.csproj.CoreCompileInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/03 - Tratando uma exceção/obj/Debug/net8.0/03 - Tratando uma exceção.sourcelink.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/03 - Tratando uma exceção/bin/Debug/net8.0/03 - Tratando uma exceção
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/03 - Tratando uma exceção/bin/Debug/net8.0/03 - Tratando uma exceção.deps.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/03 - Tratando uma exceção/bin/Debug/net8.0/03 - Tratando uma exceção.runtimeconfig.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/03 - Tratando uma exceção/bin/Debug/net8.0/03 - Tratando uma exceção.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/03 - Tratando uma exceção/bin/Debug/net8.0/03 - Tratando uma exceção.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/03 - Tratando uma exceção/obj/Debug/net8.0/03 - Tratando uma exceção.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/03 - Tratando uma exceção/obj/Debug/net8.0/refint/03 - Tratando uma exceção.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/03 - Tratando uma exceção/obj/Debug/net8.0/03 - Tratando uma exceção.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/03 - Tratando uma exceção/obj/Debug/net8.0/03 - Tratando uma exceção.genruntimeconfig.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/03 - Tratando uma exceção/obj/Debug/net8.0/ref/03 - Tratando uma exceção.dll

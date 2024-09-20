@@ -1,0 +1,15 @@
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/13 - Validando o Retorno TryParse/bin/Debug/net8.0/13 - Validando o Retorno TryParse
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/13 - Validando o Retorno TryParse/bin/Debug/net8.0/13 - Validando o Retorno TryParse.deps.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/13 - Validando o Retorno TryParse/bin/Debug/net8.0/13 - Validando o Retorno TryParse.runtimeconfig.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/13 - Validando o Retorno TryParse/bin/Debug/net8.0/13 - Validando o Retorno TryParse.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/13 - Validando o Retorno TryParse/bin/Debug/net8.0/13 - Validando o Retorno TryParse.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/13 - Validando o Retorno TryParse/obj/Debug/net8.0/13 - Validando o Retorno TryParse.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/13 - Validando o Retorno TryParse/obj/Debug/net8.0/13 - Validando o Retorno TryParse.AssemblyInfoInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/13 - Validando o Retorno TryParse/obj/Debug/net8.0/13 - Validando o Retorno TryParse.AssemblyInfo.cs
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/13 - Validando o Retorno TryParse/obj/Debug/net8.0/13 - Validando o Retorno TryParse.csproj.CoreCompileInputs.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/13 - Validando o Retorno TryParse/obj/Debug/net8.0/13 - Validando o Retorno TryParse.sourcelink.json
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/13 - Validando o Retorno TryParse/obj/Debug/net8.0/13 - Validando o Retorno TryParse.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/13 - Validando o Retorno TryParse/obj/Debug/net8.0/refint/13 - Validando o Retorno TryParse.dll
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/13 - Validando o Retorno TryParse/obj/Debug/net8.0/13 - Validando o Retorno TryParse.pdb
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/13 - Validando o Retorno TryParse/obj/Debug/net8.0/13 - Validando o Retorno TryParse.genruntimeconfig.cache
+/media/lucas/HDD/GitHub/XP-Inc.--Full-Stack-Developer/04 -  Manipulando valores/13 - Validando o Retorno TryParse/obj/Debug/net8.0/ref/13 - Validando o Retorno TryParse.dll
