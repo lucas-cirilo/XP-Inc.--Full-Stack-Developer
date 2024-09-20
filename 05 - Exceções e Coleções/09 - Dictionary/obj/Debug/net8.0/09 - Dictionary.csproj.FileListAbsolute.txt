@@ -1,0 +1,15 @@
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/09 - Dictionary/obj/Debug/net8.0/09 - Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/09 - Dictionary/obj/Debug/net8.0/09 - Dictionary.AssemblyInfoInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/09 - Dictionary/obj/Debug/net8.0/09 - Dictionary.AssemblyInfo.cs
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/09 - Dictionary/obj/Debug/net8.0/09 - Dictionary.csproj.CoreCompileInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/09 - Dictionary/obj/Debug/net8.0/09 - Dictionary.sourcelink.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/09 - Dictionary/bin/Debug/net8.0/09 - Dictionary
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/09 - Dictionary/bin/Debug/net8.0/09 - Dictionary.deps.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/09 - Dictionary/bin/Debug/net8.0/09 - Dictionary.runtimeconfig.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/09 - Dictionary/bin/Debug/net8.0/09 - Dictionary.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/09 - Dictionary/bin/Debug/net8.0/09 - Dictionary.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/09 - Dictionary/obj/Debug/net8.0/09 - Dictionary.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/09 - Dictionary/obj/Debug/net8.0/refint/09 - Dictionary.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/09 - Dictionary/obj/Debug/net8.0/09 - Dictionary.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/09 - Dictionary/obj/Debug/net8.0/09 - Dictionary.genruntimeconfig.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/09 - Dictionary/obj/Debug/net8.0/ref/09 - Dictionary.dll

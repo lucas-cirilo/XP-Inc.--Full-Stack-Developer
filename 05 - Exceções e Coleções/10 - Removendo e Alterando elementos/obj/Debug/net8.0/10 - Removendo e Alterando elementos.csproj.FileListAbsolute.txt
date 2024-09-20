@@ -1,0 +1,15 @@
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/10 - Removendo e Alterando elementos/bin/Debug/net8.0/10 - Removendo e Alterando elementos
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/10 - Removendo e Alterando elementos/bin/Debug/net8.0/10 - Removendo e Alterando elementos.deps.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/10 - Removendo e Alterando elementos/bin/Debug/net8.0/10 - Removendo e Alterando elementos.runtimeconfig.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/10 - Removendo e Alterando elementos/bin/Debug/net8.0/10 - Removendo e Alterando elementos.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/10 - Removendo e Alterando elementos/bin/Debug/net8.0/10 - Removendo e Alterando elementos.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/10 - Removendo e Alterando elementos/obj/Debug/net8.0/10 - Removendo e Alterando elementos.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/10 - Removendo e Alterando elementos/obj/Debug/net8.0/10 - Removendo e Alterando elementos.AssemblyInfoInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/10 - Removendo e Alterando elementos/obj/Debug/net8.0/10 - Removendo e Alterando elementos.AssemblyInfo.cs
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/10 - Removendo e Alterando elementos/obj/Debug/net8.0/10 - Removendo e Alterando elementos.csproj.CoreCompileInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/10 - Removendo e Alterando elementos/obj/Debug/net8.0/10 - Removendo e Alterando elementos.sourcelink.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/10 - Removendo e Alterando elementos/obj/Debug/net8.0/10 - Removendo e Alterando elementos.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/10 - Removendo e Alterando elementos/obj/Debug/net8.0/refint/10 - Removendo e Alterando elementos.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/10 - Removendo e Alterando elementos/obj/Debug/net8.0/10 - Removendo e Alterando elementos.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/10 - Removendo e Alterando elementos/obj/Debug/net8.0/10 - Removendo e Alterando elementos.genruntimeconfig.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/10 - Removendo e Alterando elementos/obj/Debug/net8.0/ref/10 - Removendo e Alterando elementos.dll

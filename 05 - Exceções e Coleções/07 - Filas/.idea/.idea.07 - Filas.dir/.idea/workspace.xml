@@ -11,8 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Models/Exceção.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -72,6 +71,7 @@
       <workItem from="1726864528927" duration="139000" />
       <workItem from="1726865245547" duration="726000" />
       <workItem from="1726866011449" duration="237000" />
+      <workItem from="1726869024348" duration="112000" />
     </task>
     <servers />
   </component>
