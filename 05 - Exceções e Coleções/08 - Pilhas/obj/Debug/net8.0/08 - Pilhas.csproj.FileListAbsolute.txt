@@ -1,0 +1,15 @@
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/08 - Pilhas/bin/Debug/net8.0/08 - Pilhas
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/08 - Pilhas/bin/Debug/net8.0/08 - Pilhas.deps.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/08 - Pilhas/bin/Debug/net8.0/08 - Pilhas.runtimeconfig.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/08 - Pilhas/bin/Debug/net8.0/08 - Pilhas.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/08 - Pilhas/bin/Debug/net8.0/08 - Pilhas.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/08 - Pilhas/obj/Debug/net8.0/08 - Pilhas.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/08 - Pilhas/obj/Debug/net8.0/08 - Pilhas.AssemblyInfoInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/08 - Pilhas/obj/Debug/net8.0/08 - Pilhas.AssemblyInfo.cs
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/08 - Pilhas/obj/Debug/net8.0/08 - Pilhas.csproj.CoreCompileInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/08 - Pilhas/obj/Debug/net8.0/08 - Pilhas.sourcelink.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/08 - Pilhas/obj/Debug/net8.0/08 - Pilhas.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/08 - Pilhas/obj/Debug/net8.0/refint/08 - Pilhas.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/08 - Pilhas/obj/Debug/net8.0/08 - Pilhas.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/08 - Pilhas/obj/Debug/net8.0/08 - Pilhas.genruntimeconfig.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/05 - Exceções e Coleções/08 - Pilhas/obj/Debug/net8.0/ref/08 - Pilhas.dll
