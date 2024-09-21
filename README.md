@@ -24,9 +24,17 @@ Este repositório contém uma coleção de exercícios em C# desenvolvidos para 
 
 Observações:
 
-Em constante evolução: Novos exercícios serão adicionados regularmente.
-Código educacional: O código fornecido é para fins de aprendizado e pode não ser otimizado para produção.
-Contribuições: Se você encontrar algum erro, tiver sugestões ou quiser adicionar seus próprios exercícios, fique à vontade para abrir um pull request.
+Em constante evolução: 
+
+Novos exercícios serão adicionados regularmente.
+
+Código educacional: 
+
+O código fornecido é para fins de aprendizado e pode não ser otimizado para produção.
+
+Contribuições: 
+
+Se você encontrar algum erro, tiver sugestões ou quiser adicionar seus próprios exercícios, fique à vontade para abrir um pull request.
 Dúvidas?
 
 Se você tiver alguma dúvida sobre os exercícios ou sobre o curso em geral, sinta-se à vontade para me contatar.
