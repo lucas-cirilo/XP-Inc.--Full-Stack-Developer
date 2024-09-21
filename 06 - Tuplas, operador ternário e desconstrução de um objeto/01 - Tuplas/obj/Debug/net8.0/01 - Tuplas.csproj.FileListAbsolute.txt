@@ -1,0 +1,15 @@
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/01 - Tuplas/bin/Debug/net8.0/01 - Tuplas
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/01 - Tuplas/bin/Debug/net8.0/01 - Tuplas.deps.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/01 - Tuplas/bin/Debug/net8.0/01 - Tuplas.runtimeconfig.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/01 - Tuplas/bin/Debug/net8.0/01 - Tuplas.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/01 - Tuplas/bin/Debug/net8.0/01 - Tuplas.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/01 - Tuplas/obj/Debug/net8.0/01 - Tuplas.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/01 - Tuplas/obj/Debug/net8.0/01 - Tuplas.AssemblyInfoInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/01 - Tuplas/obj/Debug/net8.0/01 - Tuplas.AssemblyInfo.cs
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/01 - Tuplas/obj/Debug/net8.0/01 - Tuplas.csproj.CoreCompileInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/01 - Tuplas/obj/Debug/net8.0/01 - Tuplas.sourcelink.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/01 - Tuplas/obj/Debug/net8.0/01 - Tuplas.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/01 - Tuplas/obj/Debug/net8.0/refint/01 - Tuplas.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/01 - Tuplas/obj/Debug/net8.0/01 - Tuplas.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/01 - Tuplas/obj/Debug/net8.0/01 - Tuplas.genruntimeconfig.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/01 - Tuplas/obj/Debug/net8.0/ref/01 - Tuplas.dll

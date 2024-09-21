@@ -1,0 +1,15 @@
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/03 - Tupla em Métodos/bin/Debug/net8.0/03 - Tupla em Métodos
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/03 - Tupla em Métodos/bin/Debug/net8.0/03 - Tupla em Métodos.deps.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/03 - Tupla em Métodos/bin/Debug/net8.0/03 - Tupla em Métodos.runtimeconfig.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/03 - Tupla em Métodos/bin/Debug/net8.0/03 - Tupla em Métodos.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/03 - Tupla em Métodos/bin/Debug/net8.0/03 - Tupla em Métodos.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/03 - Tupla em Métodos/obj/Debug/net8.0/03 - Tupla em Métodos.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/03 - Tupla em Métodos/obj/Debug/net8.0/03 - Tupla em Métodos.AssemblyInfoInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/03 - Tupla em Métodos/obj/Debug/net8.0/03 - Tupla em Métodos.AssemblyInfo.cs
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/03 - Tupla em Métodos/obj/Debug/net8.0/03 - Tupla em Métodos.csproj.CoreCompileInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/03 - Tupla em Métodos/obj/Debug/net8.0/03 - Tupla em Métodos.sourcelink.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/03 - Tupla em Métodos/obj/Debug/net8.0/03 - Tupla em Métodos.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/03 - Tupla em Métodos/obj/Debug/net8.0/refint/03 - Tupla em Métodos.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/03 - Tupla em Métodos/obj/Debug/net8.0/03 - Tupla em Métodos.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/03 - Tupla em Métodos/obj/Debug/net8.0/03 - Tupla em Métodos.genruntimeconfig.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/03 - Tupla em Métodos/obj/Debug/net8.0/ref/03 - Tupla em Métodos.dll

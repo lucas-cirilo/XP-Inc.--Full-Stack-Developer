@@ -1,0 +1,15 @@
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/06 - If ternário/bin/Debug/net8.0/06 - If ternário
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/06 - If ternário/bin/Debug/net8.0/06 - If ternário.deps.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/06 - If ternário/bin/Debug/net8.0/06 - If ternário.runtimeconfig.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/06 - If ternário/bin/Debug/net8.0/06 - If ternário.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/06 - If ternário/bin/Debug/net8.0/06 - If ternário.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/06 - If ternário/obj/Debug/net8.0/06 - If ternário.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/06 - If ternário/obj/Debug/net8.0/06 - If ternário.AssemblyInfoInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/06 - If ternário/obj/Debug/net8.0/06 - If ternário.AssemblyInfo.cs
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/06 - If ternário/obj/Debug/net8.0/06 - If ternário.csproj.CoreCompileInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/06 - If ternário/obj/Debug/net8.0/06 - If ternário.sourcelink.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/06 - If ternário/obj/Debug/net8.0/06 - If ternário.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/06 - If ternário/obj/Debug/net8.0/refint/06 - If ternário.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/06 - If ternário/obj/Debug/net8.0/06 - If ternário.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/06 - If ternário/obj/Debug/net8.0/06 - If ternário.genruntimeconfig.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/06 - If ternário/obj/Debug/net8.0/ref/06 - If ternário.dll

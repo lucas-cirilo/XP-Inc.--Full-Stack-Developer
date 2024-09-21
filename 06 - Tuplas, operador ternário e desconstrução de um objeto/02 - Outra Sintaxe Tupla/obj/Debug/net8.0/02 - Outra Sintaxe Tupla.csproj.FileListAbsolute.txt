@@ -1,0 +1,15 @@
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/02 - Outra Sintaxe Tupla/bin/Debug/net8.0/02 - Outra Sintaxe Tupla
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/02 - Outra Sintaxe Tupla/bin/Debug/net8.0/02 - Outra Sintaxe Tupla.deps.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/02 - Outra Sintaxe Tupla/bin/Debug/net8.0/02 - Outra Sintaxe Tupla.runtimeconfig.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/02 - Outra Sintaxe Tupla/bin/Debug/net8.0/02 - Outra Sintaxe Tupla.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/02 - Outra Sintaxe Tupla/bin/Debug/net8.0/02 - Outra Sintaxe Tupla.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/02 - Outra Sintaxe Tupla/obj/Debug/net8.0/02 - Outra Sintaxe Tupla.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/02 - Outra Sintaxe Tupla/obj/Debug/net8.0/02 - Outra Sintaxe Tupla.AssemblyInfoInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/02 - Outra Sintaxe Tupla/obj/Debug/net8.0/02 - Outra Sintaxe Tupla.AssemblyInfo.cs
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/02 - Outra Sintaxe Tupla/obj/Debug/net8.0/02 - Outra Sintaxe Tupla.csproj.CoreCompileInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/02 - Outra Sintaxe Tupla/obj/Debug/net8.0/02 - Outra Sintaxe Tupla.sourcelink.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/02 - Outra Sintaxe Tupla/obj/Debug/net8.0/02 - Outra Sintaxe Tupla.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/02 - Outra Sintaxe Tupla/obj/Debug/net8.0/refint/02 - Outra Sintaxe Tupla.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/02 - Outra Sintaxe Tupla/obj/Debug/net8.0/02 - Outra Sintaxe Tupla.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/02 - Outra Sintaxe Tupla/obj/Debug/net8.0/02 - Outra Sintaxe Tupla.genruntimeconfig.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/02 - Outra Sintaxe Tupla/obj/Debug/net8.0/ref/02 - Outra Sintaxe Tupla.dll

@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/03 - Tupla em Métodos/03 - Tupla em Métodos.csproj": {}
+  },
+  "projects": {
+    "/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/03 - Tupla em Métodos/03 - Tupla em Métodos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/03 - Tupla em Métodos/03 - Tupla em Métodos.csproj",
+        "projectName": "03 - Tupla em Métodos",
+        "projectPath": "/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/03 - Tupla em Métodos/03 - Tupla em Métodos.csproj",
+        "packagesPath": "/home/lucas/.nuget/packages/",
+        "outputPath": "/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/03 - Tupla em Métodos/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/lucas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/lucas/.dotnet/sdk/9.0.100-rc.1.24452.12/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

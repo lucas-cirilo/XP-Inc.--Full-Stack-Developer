@@ -1,0 +1,15 @@
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/05 - Desconstrutor/bin/Debug/net8.0/05 - Desconstrutor
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/05 - Desconstrutor/bin/Debug/net8.0/05 - Desconstrutor.deps.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/05 - Desconstrutor/bin/Debug/net8.0/05 - Desconstrutor.runtimeconfig.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/05 - Desconstrutor/bin/Debug/net8.0/05 - Desconstrutor.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/05 - Desconstrutor/bin/Debug/net8.0/05 - Desconstrutor.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/05 - Desconstrutor/obj/Debug/net8.0/05 - Desconstrutor.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/05 - Desconstrutor/obj/Debug/net8.0/05 - Desconstrutor.AssemblyInfoInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/05 - Desconstrutor/obj/Debug/net8.0/05 - Desconstrutor.AssemblyInfo.cs
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/05 - Desconstrutor/obj/Debug/net8.0/05 - Desconstrutor.csproj.CoreCompileInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/05 - Desconstrutor/obj/Debug/net8.0/05 - Desconstrutor.sourcelink.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/05 - Desconstrutor/obj/Debug/net8.0/05 - Desconstrutor.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/05 - Desconstrutor/obj/Debug/net8.0/refint/05 - Desconstrutor.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/05 - Desconstrutor/obj/Debug/net8.0/05 - Desconstrutor.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/05 - Desconstrutor/obj/Debug/net8.0/05 - Desconstrutor.genruntimeconfig.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/06 - Tuplas, operador ternário e desconstrução de um objeto/05 - Desconstrutor/obj/Debug/net8.0/ref/05 - Desconstrutor.dll
