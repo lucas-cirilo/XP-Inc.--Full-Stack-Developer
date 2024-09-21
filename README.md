@@ -1,6 +1,6 @@
 Bem-vindo ao repositório de exercícios do Bootcamp de Full Stack Developer da XP!
 
-Este repositório contém todos os exercícios que realizei durante o bootcamp, organizado por módulo e aula. O objetivo é facilitar o acesso ao meu trabalho e servir como referência para outros alunos.
+_Este repositório contém todos os exercícios que realizei durante o bootcamp, organizado por módulo e aula. O objetivo é facilitar o acesso ao meu trabalho e servir como referência para outros alunos._
 
 Conteúdo:
 
@@ -18,29 +18,29 @@ Conteúdo:
 
 ...
 
-Repositório de Exercícios C#
+_Repositório de Exercícios C#_
 
-Este repositório contém uma coleção de exercícios em C# desenvolvidos para fins de aprendizado e prática. Cada exercício aborda um conceito ou técnica específica da linguagem. Sinta-se à vontade para explorar o código e utilizá-lo como referência para seus próprios projetos.
+_Este repositório contém uma coleção de exercícios em C# desenvolvidos para fins de aprendizado e prática. Cada exercício aborda um conceito ou técnica específica da linguagem. Sinta-se à vontade para explorar o código e utilizá-lo como referência para seus próprios projetos._
 
-Observações:
+### Observações:
 
-Em constante evolução: 
+**Em constante evolução:**
 
-Novos exercícios serão adicionados regularmente.
+_Novos exercícios serão adicionados regularmente._
 
-Código educacional: 
+**Código educacional:**
 
-O código fornecido é para fins de aprendizado e pode não ser otimizado para produção.
+_O código fornecido é para fins de aprendizado e pode não ser otimizado para produção._
 
-Contribuições: 
+**Contribuições:**
 
-Se você encontrar algum erro, tiver sugestões ou quiser adicionar seus próprios exercícios, fique à vontade para abrir um pull request.
-Dúvidas?
+_Se você encontrar algum erro, tiver sugestões ou quiser adicionar seus próprios exercícios, fique à vontade para abrir um pull request.
+Dúvidas?_
 
-Se você tiver alguma dúvida sobre os exercícios ou sobre o curso em geral, sinta-se à vontade para me contatar.
+_Se você tiver alguma dúvida sobre os exercícios ou sobre o curso em geral, sinta-se à vontade para me contatar._
 
-Obrigado por seu interesse!
+_Obrigado por seu interesse!_
 
-Atenciosamente,
+_Atenciosamente,_
 
-Lucas Cirilo dos Santos
+**Lucas Cirilo dos Santos**
