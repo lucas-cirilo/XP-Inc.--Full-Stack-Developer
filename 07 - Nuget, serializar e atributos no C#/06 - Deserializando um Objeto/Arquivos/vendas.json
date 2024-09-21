@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "Produto": "Caneta",
+    "Preco": 1.50,
+    "DataVenda": "2024-09-21T00:24:25.7686257-03:00"
+  },
+  {
+    "Id": 2,
+    "Produto": "lapis",
+    "Preco": 1.50,
+    "DataVenda": "2024-09-21T00:24:25.7686257-03:00"
+  },
+  {
+    "Id": 3,
+    "Produto": "Borracha",
+    "Preco": 1.50,
+    "DataVenda": "2024-09-21T00:24:25.7686257-03:00"
+  },
+  {
+    "Id": 4,
+    "Produto": "Caderno",
+    "Preco": 1.50,
+    "DataVenda": "2024-09-21T00:24:25.7686257-03:00"
+  },
+  {
+    "Id": 5,
+    "Produto": "Apontador",
+    "Preco": 2.00,
+    "DataVenda": "2024-09-21T00:24:25.7686257-03:00"
+  }
+]
+
+//ISO 8601

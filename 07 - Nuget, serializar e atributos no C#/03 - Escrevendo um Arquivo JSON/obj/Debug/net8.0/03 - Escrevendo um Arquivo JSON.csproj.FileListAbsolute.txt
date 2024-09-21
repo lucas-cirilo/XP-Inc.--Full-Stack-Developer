@@ -1,0 +1,18 @@
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/03 - Escrevendo um Arquivo JSON/bin/Debug/net8.0/03 - Escrevendo um Arquivo JSON
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/03 - Escrevendo um Arquivo JSON/bin/Debug/net8.0/03 - Escrevendo um Arquivo JSON.deps.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/03 - Escrevendo um Arquivo JSON/bin/Debug/net8.0/03 - Escrevendo um Arquivo JSON.runtimeconfig.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/03 - Escrevendo um Arquivo JSON/bin/Debug/net8.0/03 - Escrevendo um Arquivo JSON.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/03 - Escrevendo um Arquivo JSON/bin/Debug/net8.0/03 - Escrevendo um Arquivo JSON.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/03 - Escrevendo um Arquivo JSON/bin/Debug/net8.0/Newtonsoft.Json.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/03 - Escrevendo um Arquivo JSON/obj/Debug/net8.0/03 - Escrevendo um Arquivo JSON.csproj.AssemblyReference.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/03 - Escrevendo um Arquivo JSON/obj/Debug/net8.0/03 - Escrevendo um Arquivo JSON.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/03 - Escrevendo um Arquivo JSON/obj/Debug/net8.0/03 - Escrevendo um Arquivo JSON.AssemblyInfoInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/03 - Escrevendo um Arquivo JSON/obj/Debug/net8.0/03 - Escrevendo um Arquivo JSON.AssemblyInfo.cs
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/03 - Escrevendo um Arquivo JSON/obj/Debug/net8.0/03 - Escrevendo um Arquivo JSON.csproj.CoreCompileInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/03 - Escrevendo um Arquivo JSON/obj/Debug/net8.0/03 - Escrevendo um Arquivo JSON.sourcelink.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/03 - Escrevendo um Arquivo JSON/obj/Debug/net8.0/03 - Esc.114D5807.Up2Date
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/03 - Escrevendo um Arquivo JSON/obj/Debug/net8.0/03 - Escrevendo um Arquivo JSON.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/03 - Escrevendo um Arquivo JSON/obj/Debug/net8.0/refint/03 - Escrevendo um Arquivo JSON.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/03 - Escrevendo um Arquivo JSON/obj/Debug/net8.0/03 - Escrevendo um Arquivo JSON.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/03 - Escrevendo um Arquivo JSON/obj/Debug/net8.0/03 - Escrevendo um Arquivo JSON.genruntimeconfig.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/03 - Escrevendo um Arquivo JSON/obj/Debug/net8.0/ref/03 - Escrevendo um Arquivo JSON.dll

@@ -1,0 +1,18 @@
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/05 - DateTime em Json/bin/Debug/net8.0/05 - DateTime em Json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/05 - DateTime em Json/bin/Debug/net8.0/05 - DateTime em Json.deps.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/05 - DateTime em Json/bin/Debug/net8.0/05 - DateTime em Json.runtimeconfig.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/05 - DateTime em Json/bin/Debug/net8.0/05 - DateTime em Json.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/05 - DateTime em Json/bin/Debug/net8.0/05 - DateTime em Json.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/05 - DateTime em Json/bin/Debug/net8.0/Newtonsoft.Json.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/05 - DateTime em Json/obj/Debug/net8.0/05 - DateTime em Json.csproj.AssemblyReference.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/05 - DateTime em Json/obj/Debug/net8.0/05 - DateTime em Json.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/05 - DateTime em Json/obj/Debug/net8.0/05 - DateTime em Json.AssemblyInfoInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/05 - DateTime em Json/obj/Debug/net8.0/05 - DateTime em Json.AssemblyInfo.cs
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/05 - DateTime em Json/obj/Debug/net8.0/05 - DateTime em Json.csproj.CoreCompileInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/05 - DateTime em Json/obj/Debug/net8.0/05 - DateTime em Json.sourcelink.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/05 - DateTime em Json/obj/Debug/net8.0/05 - Dat.0D92DB18.Up2Date
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/05 - DateTime em Json/obj/Debug/net8.0/05 - DateTime em Json.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/05 - DateTime em Json/obj/Debug/net8.0/refint/05 - DateTime em Json.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/05 - DateTime em Json/obj/Debug/net8.0/05 - DateTime em Json.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/05 - DateTime em Json/obj/Debug/net8.0/05 - DateTime em Json.genruntimeconfig.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/05 - DateTime em Json/obj/Debug/net8.0/ref/05 - DateTime em Json.dll

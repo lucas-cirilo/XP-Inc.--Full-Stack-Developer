@@ -1,0 +1,18 @@
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/07 - Atributos/obj/Debug/net8.0/07 - Atributos.csproj.AssemblyReference.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/07 - Atributos/obj/Debug/net8.0/07 - Atributos.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/07 - Atributos/obj/Debug/net8.0/07 - Atributos.AssemblyInfoInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/07 - Atributos/obj/Debug/net8.0/07 - Atributos.AssemblyInfo.cs
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/07 - Atributos/obj/Debug/net8.0/07 - Atributos.csproj.CoreCompileInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/07 - Atributos/obj/Debug/net8.0/07 - Atributos.sourcelink.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/07 - Atributos/bin/Debug/net8.0/07 - Atributos
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/07 - Atributos/bin/Debug/net8.0/07 - Atributos.deps.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/07 - Atributos/bin/Debug/net8.0/07 - Atributos.runtimeconfig.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/07 - Atributos/bin/Debug/net8.0/07 - Atributos.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/07 - Atributos/bin/Debug/net8.0/07 - Atributos.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/07 - Atributos/bin/Debug/net8.0/Newtonsoft.Json.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/07 - Atributos/obj/Debug/net8.0/07 - Atr.51AF3F54.Up2Date
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/07 - Atributos/obj/Debug/net8.0/07 - Atributos.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/07 - Atributos/obj/Debug/net8.0/refint/07 - Atributos.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/07 - Atributos/obj/Debug/net8.0/07 - Atributos.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/07 - Atributos/obj/Debug/net8.0/07 - Atributos.genruntimeconfig.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/07 - Atributos/obj/Debug/net8.0/ref/07 - Atributos.dll

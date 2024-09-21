@@ -1,0 +1,18 @@
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/04 - Serializando uma Coleção/obj/Debug/net8.0/04 - Serializando uma Coleção.csproj.AssemblyReference.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/04 - Serializando uma Coleção/obj/Debug/net8.0/04 - Serializando uma Coleção.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/04 - Serializando uma Coleção/obj/Debug/net8.0/04 - Serializando uma Coleção.AssemblyInfoInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/04 - Serializando uma Coleção/obj/Debug/net8.0/04 - Serializando uma Coleção.AssemblyInfo.cs
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/04 - Serializando uma Coleção/obj/Debug/net8.0/04 - Serializando uma Coleção.csproj.CoreCompileInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/04 - Serializando uma Coleção/obj/Debug/net8.0/04 - Serializando uma Coleção.sourcelink.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/04 - Serializando uma Coleção/bin/Debug/net8.0/04 - Serializando uma Coleção
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/04 - Serializando uma Coleção/bin/Debug/net8.0/04 - Serializando uma Coleção.deps.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/04 - Serializando uma Coleção/bin/Debug/net8.0/04 - Serializando uma Coleção.runtimeconfig.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/04 - Serializando uma Coleção/bin/Debug/net8.0/04 - Serializando uma Coleção.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/04 - Serializando uma Coleção/bin/Debug/net8.0/04 - Serializando uma Coleção.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/04 - Serializando uma Coleção/bin/Debug/net8.0/Newtonsoft.Json.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/04 - Serializando uma Coleção/obj/Debug/net8.0/04 - Ser.F05F2670.Up2Date
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/04 - Serializando uma Coleção/obj/Debug/net8.0/04 - Serializando uma Coleção.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/04 - Serializando uma Coleção/obj/Debug/net8.0/refint/04 - Serializando uma Coleção.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/04 - Serializando uma Coleção/obj/Debug/net8.0/04 - Serializando uma Coleção.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/04 - Serializando uma Coleção/obj/Debug/net8.0/04 - Serializando uma Coleção.genruntimeconfig.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/04 - Serializando uma Coleção/obj/Debug/net8.0/ref/04 - Serializando uma Coleção.dll

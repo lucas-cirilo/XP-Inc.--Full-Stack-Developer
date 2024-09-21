@@ -1,0 +1,27 @@
+[
+  {
+    "Id": 1,
+    "Produto": "Caneta",
+    "Preco": 1.50
+  },
+  {
+    "Id": 2,
+    "Produto": "lapis",
+    "Preco": 1.50
+  },
+  {
+    "Id": 3,
+    "Produto": "Borracha",
+    "Preco": 1.50
+  },
+  {
+    "Id": 4,
+    "Produto": "Caderno",
+    "Preco": 1.50
+  },
+  {
+    "Id": 5,
+    "Produto": "Apontador",
+    "Preco": 2.00
+  }
+]

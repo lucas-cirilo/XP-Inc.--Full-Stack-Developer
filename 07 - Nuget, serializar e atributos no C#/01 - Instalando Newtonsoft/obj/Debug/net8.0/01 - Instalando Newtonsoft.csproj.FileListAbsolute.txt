@@ -1,0 +1,18 @@
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Instalando Newtonsoft/bin/Debug/net8.0/01 - Instalando Newtonsoft
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Instalando Newtonsoft/bin/Debug/net8.0/01 - Instalando Newtonsoft.deps.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Instalando Newtonsoft/bin/Debug/net8.0/01 - Instalando Newtonsoft.runtimeconfig.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Instalando Newtonsoft/bin/Debug/net8.0/01 - Instalando Newtonsoft.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Instalando Newtonsoft/bin/Debug/net8.0/01 - Instalando Newtonsoft.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Instalando Newtonsoft/bin/Debug/net8.0/Newtonsoft.Json.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Instalando Newtonsoft/obj/Debug/net8.0/01 - Instalando Newtonsoft.csproj.AssemblyReference.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Instalando Newtonsoft/obj/Debug/net8.0/01 - Instalando Newtonsoft.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Instalando Newtonsoft/obj/Debug/net8.0/01 - Instalando Newtonsoft.AssemblyInfoInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Instalando Newtonsoft/obj/Debug/net8.0/01 - Instalando Newtonsoft.AssemblyInfo.cs
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Instalando Newtonsoft/obj/Debug/net8.0/01 - Instalando Newtonsoft.csproj.CoreCompileInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Instalando Newtonsoft/obj/Debug/net8.0/01 - Instalando Newtonsoft.sourcelink.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Instalando Newtonsoft/obj/Debug/net8.0/01 - Ins.A34F1557.Up2Date
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Instalando Newtonsoft/obj/Debug/net8.0/01 - Instalando Newtonsoft.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Instalando Newtonsoft/obj/Debug/net8.0/refint/01 - Instalando Newtonsoft.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Instalando Newtonsoft/obj/Debug/net8.0/01 - Instalando Newtonsoft.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Instalando Newtonsoft/obj/Debug/net8.0/01 - Instalando Newtonsoft.genruntimeconfig.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Instalando Newtonsoft/obj/Debug/net8.0/ref/01 - Instalando Newtonsoft.dll

@@ -1,0 +1,18 @@
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Explorando o Nuget/bin/Debug/net8.0/01 - Explorando o Nuget
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Explorando o Nuget/bin/Debug/net8.0/01 - Explorando o Nuget.deps.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Explorando o Nuget/bin/Debug/net8.0/01 - Explorando o Nuget.runtimeconfig.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Explorando o Nuget/bin/Debug/net8.0/01 - Explorando o Nuget.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Explorando o Nuget/bin/Debug/net8.0/01 - Explorando o Nuget.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Explorando o Nuget/obj/Debug/net8.0/01 - Explorando o Nuget.GeneratedMSBuildEditorConfig.editorconfig
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Explorando o Nuget/obj/Debug/net8.0/01 - Explorando o Nuget.AssemblyInfoInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Explorando o Nuget/obj/Debug/net8.0/01 - Explorando o Nuget.AssemblyInfo.cs
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Explorando o Nuget/obj/Debug/net8.0/01 - Explorando o Nuget.csproj.CoreCompileInputs.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Explorando o Nuget/obj/Debug/net8.0/01 - Explorando o Nuget.sourcelink.json
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Explorando o Nuget/obj/Debug/net8.0/01 - Explorando o Nuget.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Explorando o Nuget/obj/Debug/net8.0/refint/01 - Explorando o Nuget.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Explorando o Nuget/obj/Debug/net8.0/01 - Explorando o Nuget.pdb
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Explorando o Nuget/obj/Debug/net8.0/01 - Explorando o Nuget.genruntimeconfig.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Explorando o Nuget/obj/Debug/net8.0/ref/01 - Explorando o Nuget.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Explorando o Nuget/bin/Debug/net8.0/Newtonsoft.Json.dll
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Explorando o Nuget/obj/Debug/net8.0/01 - Explorando o Nuget.csproj.AssemblyReference.cache
+/media/lucas/HDD1/GitHub/XP-Inc.--Full-Stack-Developer/07 - Nuget, serializar e atributos no C#/01 - Explorando o Nuget/obj/Debug/net8.0/01 - Exp.D1C04777.Up2Date
