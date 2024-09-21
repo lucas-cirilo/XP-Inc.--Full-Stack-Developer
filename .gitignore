@@ -1,2 +1,23 @@
+# Build output
+bin/
+obj/
 
-Projetos/trilha-net-fundamentos-desafio
+# Rider settings
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Rider cache
+.rider/
+
+# NuGet package cache
+.nuget/
+
+# Sensitive data
+secrets.json
+appsettings.Development.json
+
+# Temporary files
+*.tmp
+*.log
