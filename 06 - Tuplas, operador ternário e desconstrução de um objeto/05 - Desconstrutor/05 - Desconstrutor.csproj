@@ -3,7 +3,7 @@
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>net8.0</TargetFramework>
-        <RootNamespace>005 - Desconstrutor</RootNamespace>
+        <RootNamespace>05 - Desconstrutor</RootNamespace>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>disable</Nullable>
         <Authors>Lucas Santos</Authors>
