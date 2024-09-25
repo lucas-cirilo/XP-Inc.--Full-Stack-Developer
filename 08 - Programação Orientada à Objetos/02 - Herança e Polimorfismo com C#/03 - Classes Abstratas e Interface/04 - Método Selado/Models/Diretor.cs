@@ -1,0 +1,1 @@
+using Exemplo.Models;public class Diretor : Professor{    public Diretor(string nome) : base(nome)    {            }     public override void Apresentar()  // logo esse método apresenta um erro    {        Console.WriteLine("Diretor");     }    }

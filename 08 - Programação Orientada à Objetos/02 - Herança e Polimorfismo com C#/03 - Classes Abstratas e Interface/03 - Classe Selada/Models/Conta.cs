@@ -1,0 +1,1 @@
+namespace ClasseSelada.Models{    public abstract class Conta    {        protected decimal Saldo;                public abstract void Creditar(decimal valor);                public void ExibirSaldo()        {            Console.WriteLine($"Seu saldo é de R$: " + Saldo);        }    }}// O Sealed protege a classe de ser herdada.

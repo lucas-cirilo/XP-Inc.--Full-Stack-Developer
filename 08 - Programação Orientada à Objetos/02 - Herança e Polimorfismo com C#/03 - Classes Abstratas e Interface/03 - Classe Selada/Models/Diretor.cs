@@ -1,0 +1,1 @@
+namespace ClasseSelada.Models{    public class Diretor :     {        public override void Apresentar()        {            Console.WriteLine("Diretor");        }    }}

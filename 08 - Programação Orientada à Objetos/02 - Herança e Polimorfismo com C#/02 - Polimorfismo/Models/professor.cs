@@ -1,0 +1,1 @@
+using Polimorfismo.Models;public class Professor : Pessoa{    public decimal Salario { get; set; }    public string Materia { get; set; }        public override void Apresentar()        {            Console.WriteLine($"Olá, eu sou a professora {Nome} e tenho {Idade} anos, sou  professora de {Materia} a ganho {Salario} reais.");        }}
